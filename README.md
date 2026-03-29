@@ -8,7 +8,7 @@ Personal portfolio website showcasing full-stack projects and real-world systems
 
 ## About
 
-I am a Software Engineering student at the University of Texas at Arlington (Graduating May 2025) with 6+ years of experience in warehouse operations.
+I am a Software Engineering student at the University of Texas at Arlington (Expected May 2026), with 6+ years of experience in warehouse operations.
 
 I focus on building real-world systems that solve business problems, improve workflow efficiency, and create measurable impact.
 
