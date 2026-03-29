@@ -388,31 +388,31 @@ span:hover {
 }
 
 #receiveFlowImageReview {
-  	background-image: url("./PhotoReview/receiveflow.png");
+  	background-image: url("./photoReview/receiveflow.png");
 }
 
 #marketCostImageReview {
-	background-image: url("./PhotoReview/marketcost.JPG");
+	background-image: url("./photoReview/marketcost.JPG");
 }
 
 #uniformsVoucherImageReview {
-	background-image: url("./PhotoReview/uniformVoucher.png");
+	background-image: url("./photoReview/uniformVoucher.png");
 }
 
 #utaSlotTrackerImageReview {
-	background-image: url("./PhotoReview/utaslottracker.JPG");
+	background-image: url("./photoReview/utaslottracker.JPG");
 }
 
 #naturalizationTestImageReview {
-	background-image: url("./PhotoReview/uscis.JPG");
+	background-image: url("./photoReview/uscis.JPG");
 }
 
 #timeLogsImageReview {
-	background-image: url("./PhotoReview/timeLogs.png");
+	background-image: url("./photoReview/timeLogs.png");
 }
 
 #beachThemeToggleImageReview {
-	background-image: url("./PhotoReview/beachThemeToggle.png");
+	background-image: url("./photoReview/beachThemeToggle.png");
 }
 
 .contactItem {
