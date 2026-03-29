@@ -45,6 +45,19 @@ A personal finance application for tracking expenses and budgeting.
 
 ---
 
+## Other Projects
+
+🔹 Uniform Voucher Management System  
+Enterprise system used to replace manual voucher tracking and improve operational visibility.
+
+🔹 Time Logs System  
+System for tracking work activities and improving operational accountability.
+
+🔹 UTA Slot Tracker  
+Web-based scheduling system for managing and organizing time slots.
+
+---
+
 ## Tech Stack
 
 - PHP
@@ -68,5 +81,5 @@ This repository is a **cleaned version** of my portfolio.
 If you are interested, feel free to connect:
 
 - Portfolio: https://namho.fortuneterm.com
-- GitHub: https://github.com/yourusername
+- GitHub: https://github.com/thaiho101
 
