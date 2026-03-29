@@ -78,7 +78,7 @@
 	<div class="aboutGrid">
 		<div class="glassCard">
 			<p style='padding-bottom: 10px;'>
-				Software Engineering student at the University of Texas at Arlington, graduating May 2025,
+				Software Engineering student at the University of Texas at Arlington (Expected May 2026),
 				with 6+ years of experience in warehouse operations and proven experience building real-world systems with measurable business impact.
 			</p>
 
