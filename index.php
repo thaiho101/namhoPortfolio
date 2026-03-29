@@ -366,9 +366,9 @@
 
 							<li>Led a team of 9+ employees, improving productivity by 20%.</li>
 
-							<li>Fostered a high-performance team environment...</li>
+							<li>Built a high-performance team culture, improving accountability and operational efficiency.</li>
 							
-							<li>Transitioned to full-time study in 2025 to complete degree.</li>
+							<li>Transitioned to full-time study in 2025 to complete degree (Expected May 2026).</li>
 						</ul>
 					</div>
 
