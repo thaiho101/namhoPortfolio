@@ -367,6 +367,8 @@
 							<li>Led a team of 9+ employees, improving productivity by 20%.</li>
 
 							<li>Fostered a high-performance team environment by supporting employees and taking ownership of operational outcomes.</li>
+							
+							<p>Transitioned to full-time study in 2025 to complete degree.</p>
 						</ul>
 					</div>
 
