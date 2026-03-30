@@ -349,7 +349,7 @@
 					<h3>Crown Digital LLC (Metro Uniforms)</h3>
 					<div class='companyDuration'>
 						<p class="expMeta">Dallas, TX • 2019 – 2025 (Full Time - <i class="fa-regular fa-calendar"></i> 6 years 1 month)</p>
-						<span>🏆 5-Year Service Award</span>
+						<p class='award'>🏆 5-Year Service Award</p>
 					</div>
 
 					<div class="roleBlock role1">

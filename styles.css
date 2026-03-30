@@ -228,13 +228,47 @@ body {
 	width: 100%;
 }
 
-.companyDuration span {
+.award {
+	position: relative;
 	padding: 3px 12px;
 	border-radius: 999px;
-	background: rgba(255, 215, 0, 0.12);
 	border: 1px solid rgba(255, 215, 0, 0.2);
 	font-size: 14px;
 	color: #ffe28a;
+	background: rgba(255, 215, 0, 0.08);
+	overflow: hidden;
+}
+
+.award::before {
+	content: "";
+	position: absolute;
+	top: 0;
+	left: -100%;
+	width: 100%;
+	height: 100%;
+	border-radius: inherit;
+
+	background: linear-gradient(
+		120deg,
+		transparent,
+		rgba(255, 255, 255, 0.4),
+		transparent
+	);
+
+	transition: none;
+}
+
+.award:hover::before {
+	animation: shimmer 0.8s ease forwards;
+}
+
+@keyframes shimmer {
+	0% {
+		left: -100%;
+	}
+	100% {
+		left: 100%;
+	}
 }
 
 .infoTitle {
