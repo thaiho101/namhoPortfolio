@@ -710,7 +710,7 @@ span:hover {
 #contact,
 #receiveFlow,
 #uniformVoucher {
-	scroll-margin-top: 110px;
+	scroll-margin-top: 37px;
 }
 
 @media (max-width: 1050px) {
