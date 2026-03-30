@@ -347,7 +347,10 @@
 
 
 					<h3>Crown Digital LLC (Metro Uniforms)</h3>
-					<p class="expMeta">Dallas, TX • 2019 – 2025 (Full Time - <i class="fa-regular fa-calendar"></i> 6 years 1 month)</p>
+					<div class='companyDuration'>
+						<p class="expMeta">Dallas, TX • 2019 – 2025 (Full Time - <i class="fa-regular fa-calendar"></i> 6 years 1 month)</p>
+						<span>🏆 5-Year Service Award</span>
+					</div>
 
 					<div class="roleBlock role1">
 						<h4>Warehouse Manager</h4>
@@ -367,6 +370,8 @@
 							<li>Led a team of 9+ employees, improving productivity by 20%.</li>
 
 							<li>Built a high-performance team culture, improving accountability and operational efficiency.</li>
+
+							<li>Recognized with a 5-Year Service Award for long-term contribution and reliability (June 2024)</li>
 							
 							<li>Transitioned to full-time study in 2025 to complete degree (Expected May 2026).</li>
 						</ul>

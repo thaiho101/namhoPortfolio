@@ -221,6 +221,22 @@ body {
 	color: #f2ecc7;
 }
 
+.companyDuration {
+	display: flex;
+	/* justify-content: space-between; */
+	gap: 20px;
+	width: 100%;
+}
+
+.companyDuration span {
+	padding: 3px 12px;
+	border-radius: 999px;
+	background: rgba(255, 215, 0, 0.12);
+	border: 1px solid rgba(255, 215, 0, 0.2);
+	font-size: 14px;
+	color: #ffe28a;
+}
+
 .infoTitle {
 	font-size: 22px;
 	color: #ffe171;
