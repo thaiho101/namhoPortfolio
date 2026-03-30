@@ -353,8 +353,8 @@
 					</div>
 
 					<div class="roleBlock role1">
-						<h4>Warehouse Manager (Warehouse & Retail)</h4>
-						<p class="roleDate">Jan 2022 – Mar 2025 (<i class="fa-regular fa-calendar"></i> 3 years 10 months)</p>
+						<h4>Warehouse Manager (Warehouse & Retail Operations – Dual Role)</h4>
+						<p class="roleDate">Jun 2021 – Mar 2025 (<i class="fa-regular fa-calendar"></i> 3 years 10 months)</p>
 
 						<ul class="expList">
 							<li>Designed and developed an <span class='highlight'>internal web application</span> <a href='#uniformVoucher' class='projectNavigation'>(Uniform Voucher Management System)</a> using PHP, MySQL, JavaScript, HTML, CSS to replace manual workflows.</li>
@@ -381,7 +381,7 @@
 
 					<div class="roleBlock role2">
 						<h4>Warehouse Clerk</h4>
-						<p class="roleDate">Mar 2019 – Dec 2021 (<i class="fa-regular fa-calendar"></i> 2 years 3 months)</p>
+						<p class="roleDate">Mar 2019 – May 2021 (<i class="fa-regular fa-calendar"></i> 2 years 3 months)</p>
 
 						<ul class="expList">
 							<li>Managed receiving, inventory, and order fulfillment with 99% accuracy.</li>
