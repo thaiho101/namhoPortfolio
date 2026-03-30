@@ -353,21 +353,23 @@
 					</div>
 
 					<div class="roleBlock role1">
-						<h4>Warehouse Manager</h4>
+						<h4>Warehouse Manager (Warehouse & Retail)</h4>
 						<p class="roleDate">Jan 2022 – Mar 2025 (<i class="fa-regular fa-calendar"></i> 3 years 10 months)</p>
 
 						<ul class="expList">
-							<li>Designed and developed an internal web application <a href='#uniformVoucher' class='projectNavigation'>(Uniform Voucher Management System)</a> using PHP, MySQL, JavaScript, HTML, CSS to replace manual workflows.</li>
+							<li>Designed and developed an <span class='highlight'>internal web application</span> <a href='#uniformVoucher' class='projectNavigation'>(Uniform Voucher Management System)</a> using PHP, MySQL, JavaScript, HTML, CSS to replace manual workflows.</li>
 
 							<li>Built and evolved a workflow system <a href='#receiveFlow' class='projectNavigation'>(ReceiveFlow)</a> to digitize order processing, later extending it into an external web platform.</li>
 
-							<li><span class='projectNavigation'>Reduced order processing time from one week to one day</span> through automation.</li>
+							<li><span class='highlight'>Reduced order processing time from one week to one day (87% faster) through automation.</span> through automation.</li>
 
 							<li>Implemented validation logic and audit tracking to improve data accuracy and reliability.</li>
 
 							<li>Developed dashboards and UI tools for non-technical staff.</li>
 
-							<li>Led a team of 9+ employees, improving productivity by 20%.</li>
+							<li>Led a team of <span class='highlight'>9+ employees</span>, improving productivity by <span class='highlight'>20%</span>.</li>
+									
+							<li><span class='highlight'>Expanded role to manage both warehouse and newly launched retail operations.</span></li>
 
 							<li>Built a high-performance team culture, improving accountability and operational efficiency.</li>
 

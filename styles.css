@@ -654,6 +654,18 @@ span:hover {
 	text-shadow: 0 0 5px rgb(255, 255, 255);
 }
 
+.highlight {
+	font-weight: 600;
+	color: rgb(126, 107, 3);
+	transition: all 0.5s ease;
+}
+
+.highlight:hover {
+	color: gold;
+	border-radius: 5px;
+	background: rgba(255, 217, 0, 0.071);
+}
+
 
 
 #about,
