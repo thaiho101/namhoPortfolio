@@ -535,7 +535,7 @@ span:hover {
 
 .previewPanel {
 	position: sticky;
-	top: 110px;
+	top: 30%;
 	padding: 18px;
 	min-height: 480px;
   /* min-width: 900px; */
@@ -675,7 +675,7 @@ span:hover {
   text-align: center;
   padding-bottom: 15px;
   position: sticky;
-  top: 370px;
+  top: 45%;
   z-index: 999;
   left: 0;
 
@@ -873,7 +873,7 @@ span:hover {
 
 
 #about,
-#projects,
+#education,
 #capstone,
 #experience,
 #skills,
@@ -881,6 +881,10 @@ span:hover {
 #receiveFlow,
 #uniformVoucher {
 	scroll-margin-top: 37px;
+}
+
+#projects {
+	scroll-margin-top: 120px;
 }
 
 @media (max-width: 1050px) {
