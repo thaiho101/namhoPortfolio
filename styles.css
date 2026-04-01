@@ -181,6 +181,10 @@ body {
 	backdrop-filter: blur(12px);
 }
 
+.school {
+	width: 90%;
+}
+
 .heroCard {
 	padding: 22px;
 }
