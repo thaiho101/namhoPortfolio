@@ -20,6 +20,7 @@
 
 	<nav class="topNav">
 		<a href="#about">About</a>
+		<a href="#education">Education</a>
 		<a href="#projects">Projects</a>
 		<a href="#capstone">Capstone</a>
 		<a href="#experience">Experience</a>
@@ -106,6 +107,54 @@
 		</div>
 	</div>
 </section>
+
+<section id="education" class="contentSection">
+  <div class="sectionTitleWrap">
+    <p class="sectionMiniTitle">Education</p>
+    <h2 class="sectionTitle">Academic Background</h2>
+  </div>
+
+  <div class="timeline">
+
+    <div class="timelineItem">
+      <div class="timelineDot"></div>
+      <div class="glassCard school">
+        <h3>University of Texas at Arlington</h3>
+		<p class="schoolDate">Jan 2024 – Expected May 2026</p>
+		<div class='companyDuration'>
+        	<p class="award"><span style='text-shadow: 0 0 5px white;'>🎓</span> B.S. Computer Software Engineering</p>
+			<p class='award'><span style='text-shadow: 0 0 10px yellow;'>🏅</span> Cum Laude</p>
+		</div>
+      </div>
+    </div>
+
+    <div class="timelineItem">
+      <div class="timelineDot"></div>
+      <div class="glassCard school">
+        <h3>Dallas College</h3>
+		<p class="schoolDate">Aug 2021 – Dec 2023 • Dallas, TX</p>
+		<div class='companyDuration'>
+        	<p class="award"><span style='text-shadow: 0 0 5px white;'>🎓</span> A.S. Computer Software Engineering</p>
+			<p class='award'><span style='text-shadow: 0 0 10px yellow;'>🏅</span> Phi Theta Kappa Honor Society</p>
+		</div>
+      </div>
+    </div>
+
+	<div class="timelineItem">
+		<div class="timelineDot"></div>
+		<div class="glassCard school">
+			<h3>Open University</h3>
+			<p class="schoolDate">Dec 2012 – Sep 2016 •  Vietnam</p>
+			<div class='companyDuration'>
+				<p class="award"><span style='text-shadow: 0 0 5px white;'>🎓</span> B.S. International Business</p>
+			</div>
+		</div>
+	</div>
+
+  </div>
+</section>
+
+
 
 <section id="projects" class="contentSection">
 	<div class="sectionTitleWrap">
@@ -349,7 +398,7 @@
 					<h3>Crown Digital LLC (Metro Uniforms)</h3>
 					<div class='companyDuration'>
 						<p class="expMeta">Dallas, TX • 2019 – 2025 (Full Time - <i class="fa-regular fa-calendar"></i> 6 years 1 month)</p>
-						<p class='award'>🏆 5-Year Service Award</p>
+						<p class='award'><span style='text-shadow: 0 0 10px yellow;'>🏆</span> 5-Year Service Award</p>
 					</div>
 
 					<div class="roleBlock role1">
