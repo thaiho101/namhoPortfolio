@@ -126,7 +126,7 @@
 			<ul class="infoList">
 				<li>Full-Stack Development (PHP, MySQL, JavaScript)</li>
 				<li>Built real-world systems with measurable business impact (uniform supply industry)</li>
-				<li>Reduced processing time from 1 week → 1 day</li>
+				<li>Reduced order processing time by 7x (1 week → 1 day)</li>
 				<li>Improved workflow efficiency and data accuracy</li>
 				<li>Experience working in real operational environments</li>
 				<li>Seeking full-time Software Engineering roles</li>
@@ -204,7 +204,7 @@
 					<p>
 						A workflow system I designed based on real warehouse receiving challenges I experienced while working in the uniform supply industry.
 						It replaces manual sorting and spreadsheet tracking with order-based processing, real-time validation, and audit logging.
-						Reduced order preparation time from one week to one day.
+						<span class='highlight'>Reduced order preparation time by 7x (1 week → 1 day)</span>.
 					</p>
 					<div class="projectTags">
 						<span>Workflow System</span>
@@ -437,7 +437,7 @@
 
 							<li>Built and evolved a workflow system <a href='#receiveFlow' class='projectNavigation'>(ReceiveFlow)</a> to digitize order processing, later extending it into an external web platform.</li>
 
-							<li><span class='highlight'>Reduced order processing time from one week to one day (87% faster) through automation.</span></li>
+							<li><span class='highlight'>Reduced order processing time by 7x (1 week → 1 day) through system automation.</span></li>
 
 							<li>Implemented validation logic and audit tracking to improve data accuracy and reliability.</li>
 
