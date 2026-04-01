@@ -447,8 +447,6 @@
 									
 							<li><span class='highlight'>Expanded role to manage both warehouse and newly launched retail operations.</span></li>
 
-							<li>Built a high-performance team culture, improving accountability and operational efficiency.</li>
-
 							<li>Recognized with a 5-Year Service Award for long-term contribution and reliability (June 2024)</li>
 							
 							<li>Transitioned to full-time study in 2025 to complete degree (Expected May 2026).</li>
