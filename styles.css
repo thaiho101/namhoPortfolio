@@ -19,6 +19,15 @@ body {
 	overflow-x: hidden;
 }
 
+.heroLink {
+	color: #ffe57a;
+	text-decoration: none;
+}
+
+.heroLink span:hover {
+	background: none;
+}
+
 .siteHeader {
   position: sticky;
   top: 0;

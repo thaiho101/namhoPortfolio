@@ -14,8 +14,10 @@
 
 <header class="siteHeader">
 	<div class="brand">
-		<i class="fas fa-seedling" style='color: lime'></i>
-		<span>Nam Ho</span>
+		<a class='heroLink' href='#hero'>
+			<i class="fas fa-seedling" style='color: lime'></i>
+			<span>Nam Ho</span>
+		</a>
 	</div>
 
 	<nav class="topNav">
@@ -32,11 +34,11 @@
 <main class="mainWrapper">
 
 
-<section class="heroSection">
+<section id='hero' class="heroSection">
 	<div class="heroText">
 		<p class="heroTag">Full-Stack Web Developer • Problem Solver • Real-World Systems</p>
 		<h1>Nam Ho</h1>
-		<h2>Software Engineering Portfolio</h2>
+		<h2>Software Engineering</h2>
 
 		<p class="heroIntro">
 			Built real-world systems that reduced operational time from 1 week to 1 day.
