@@ -35,40 +35,65 @@
 
 
 <section id='hero' class="heroSection">
-	<div class="heroText">
-		<p class="heroTag">Full-Stack Web Developer • Problem Solver • Real-World Systems</p>
-		<h1>Nam Ho</h1>
-		<h2>Software Engineering</h2>
-
-		<p class="heroIntro">
-			Built real-world systems that reduced operational time from 1 week to 1 day.
-
-			I develop practical web applications focused on workflow systems,
-			database-driven solutions, and improving operational efficiency.
+  <div class="heroText">
+	<div class='status'>    
+		<p class="heroSubLocation">
+      		<span class="locDot"></span>
+				DFW,  TX &nbsp;•&nbsp; U.S. Citizen
 		</p>
-
-		<p class="heroSub">
-			Based in Texas • Open to full-time Software Engineering roles
+		<p class="heroSubStatus">
+      		<span class="statusDot"></span>
+				Available for full-time Software Engineering roles
 		</p>
-
-		<div class="heroButtons">
-			<a href="#projects" class="primaryBtn">View Projects</a>
-			<a href="#contact" class="secondaryBtn">Contact Me</a>
-		</div>
 	</div>
+    <p class="heroTag">Full-Stack Web Developer • Problem Solver • Real-World Systems</p>
+    <h1>Nam Ho</h1>
+    <h2>Software Engineering</h2>
 
-	<div class="heroCard">
-		<div class="heroCardInner">
-			<p class="smallLabel">Current Focus</p>
-			<h3>Full-Stack Development</h3>
-			<ul>
+    <p class="heroIntro">
+      Full-Stack Developer who builds systems that solve real operational problems.
+    </p>
+
+	<br>
+
+    <div class="heroMetrics">
+      <div class="metricBox">
+        <span class="metricVal">7x</span>
+        <span class="metricLabel">Faster order processing</span>
+      </div>
+      <div class="metricBox">
+        <span class="metricVal">9+</span>
+        <span class="metricLabel">Years Professional Experience</span>
+      </div>
+      <div class="metricBox">
+        <span class="metricVal">6</span>
+        <span class="metricLabel">Live projects</span>
+      </div>
+      <div class="metricBox">
+        <span class="metricVal metricValSm">Cum Laude</span>
+        <span class="metricLabel">Academic honor</span>
+      </div>
+    </div>
+
+    <div class="heroButtons">
+      <a href="#projects" class="primaryBtn">View Projects</a>
+      <a href="#contact" class="secondaryBtn">Contact Me</a>
+	  <a href="" class="secondaryBtn">RESUMÉ (SWE)</a>
+    </div>
+  </div>
+
+  <div class="heroCard">
+    <div class="heroCardInner">
+      <p class="smallLabel">Current Focus</p>
+      <h3>Full-Stack Development</h3>
+      <ul>
         <li>Production-ready web applications</li>
         <li>Workflow & business systems</li>
-        <li>React (Senior Design Project – BugHouse)</li>
-        <li>Python (Data Structures & Algorithms)</li>
-			</ul>
-		</div>
-	</div>
+        <li>React – BugHouse (Capstone)</li>
+        <li>Python – DSA practice</li>
+      </ul>
+    </div>
+  </div>
 </section>
 
 

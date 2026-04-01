@@ -207,6 +207,109 @@ body {
 	color: #f5efca;
 }
 
+.status {
+	display: flex;
+	width: 90%;
+	justify-content: space-between;
+	padding-bottom: 15px;
+	color: #fff1a8;
+}
+
+.locDot {
+  display: inline-block;
+  width: 7px;
+  height: 7px;
+  background: goldenrod;
+  border-radius: 50%;
+  margin-right: 6px;
+  position: relative;
+  top: -1px;
+  /* animation: dotPulse 1s infinite ease-in-out;  */
+}
+
+.heroSubLocation, .heroSubStatus {
+	padding: 5px 10px;
+	background: linear-gradient(180deg, rgba(255, 215, 0, 0.12), rgba(255, 255, 255, 0.02));
+	border-radius: 8px;
+}
+
+.heroSubStatus {
+	border: 0.5px solid #161616db;
+	color: #d4a800;
+}
+
+.statusDot {
+  display: inline-block;
+  width: 7px;
+  height: 7px;
+  background: #4caf50;
+  border-radius: 50%;
+  margin-right: 6px;
+  position: relative;
+  top: -1px;
+  animation: dotPulse 1s infinite ease-in-out; 
+}
+
+@keyframes dotPulse {
+	0% {
+		box-shadow: 0 0 15px lime;
+	}
+	50% {
+		transform: scale(1.5);
+		box-shadow: 0 0 5px lime;
+	}
+	100% {
+		box-shadow: 0 0 15px lime;
+		transform: scale(1.7);
+	}
+}
+
+.heroMetrics {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1px;
+  background: #2a2a2a;
+  border-radius: 10px;
+  overflow: hidden;
+  margin-bottom: 32px;
+  width: 90%;
+}
+
+.metricBox {
+  background: #161616db;
+  padding: 18px 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 5px;
+}
+
+.metricVal {
+  font-size: 28px;
+  font-weight: 700;
+  color: #d4a800;
+  line-height: 1;
+  text-align: center;
+}
+
+.metricValSm {
+  font-size: 18px;
+  padding-top: 4px;
+}
+
+.metricLabel {
+  font-size: 10px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #666;
+  font-weight: 500;
+  text-align: center;
+}
+
+.metricBox span:hover {
+	background: none;
+}
+
 .contentSection {
 	padding: 60px 0;
 }
@@ -767,6 +870,22 @@ span:hover {
 
 
 @media (max-width: 700px) {
+
+	.status {
+		display: flex;
+		flex-direction: column;
+		gap: 10px;
+		width: 90%;
+		justify-content: space-between;
+		padding-bottom: 15px;
+		color: #fff1a8;
+	}
+
+	.heroMetrics {
+    	grid-template-columns: repeat(2, 1fr);
+    	width: 100%;
+  	}
+
 	.siteHeader {
 		flex-direction: column;
 		gap: 14px;
