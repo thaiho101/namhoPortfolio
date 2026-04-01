@@ -199,6 +199,7 @@
 				<div class="projectText">
 					<div class="projectTopLine">
 						<h3>ReceiveFlow – Workflow System</h3>
+						<a href="https://github.com/thaiho101" target="_blank" class="visitBtn"><i class="fab fa-github"></i></a>
 						<a href="https://namho-receiveflow.fortuneterm.com" target="_blank" class="visitBtn">View Live</a>
 					</div>
 					<p>
@@ -219,6 +220,7 @@
 				<div class="projectText">
 					<div class="projectTopLine">
 						<h3>PassUSCIS – Citizenship Test Platform</h3>
+						<a href="https://github.com/thaiho101" target="_blank" class="visitBtn"><i class="fab fa-github"></i></a>
 						<a href="https://passuscis.com" target="_blank" class="visitBtn">View Live</a>
 					</div>
             <p>
@@ -244,6 +246,7 @@
 				<div class="projectText">
 					<div class="projectTopLine">
 						<h3>Market Cost – Budget Tracker</h3>
+						<a href="https://github.com/thaiho101" target="_blank" class="visitBtn"><i class="fab fa-github"></i></a>
 						<a href="https://marketcost.fortuneterm.com" target="_blank" class="visitBtn">View Live</a>
 					</div>
             <p>
@@ -270,6 +273,7 @@
 				<div class="projectText">
 					<div class="projectTopLine">
 						<h3>Uniform Voucher Management System</h3>
+						<a href="https://github.com/thaiho101" target="_blank" class="visitBtn"><i class="fab fa-github"></i></a>
 						<a href="https://namho-uniform-voucher-demo.fortuneterm.com" target="_blank" class="visitBtn">View Live</a>
 					</div>
 					<p>
@@ -293,6 +297,7 @@
 				<div class="projectText">
 					<div class="projectTopLine">
 						<h3>TimeLogs – Work Hour Tracker</h3>
+						<a href="https://github.com/thaiho101" target="_blank" class="visitBtn"><i class="fab fa-github"></i></a>
 						<a href="https://namho-timelogs.fortuneterm.com" target="_blank" class="visitBtn">View Live</a>
 					</div>
             <p>
@@ -316,6 +321,7 @@
 				<div class="projectText">
 					<div class="projectTopLine">
 						<h3>UTA Slot Tracker</h3>
+						<a href="https://github.com/thaiho101" target="_blank" class="visitBtn"><i class="fab fa-github"></i></a>
 						<a href="https://namho-utaslottracker.fortuneterm.com" target="_blank" class="visitBtn">View Live</a>
 					</div>
             <p>
@@ -399,6 +405,8 @@
 			</li>
 
 		</ul>
+		<a href="https://github.com/thaiho101" target="_blank" class="visitBtn"><i class="fab fa-github"></i></a>
+
 		<a href="https://websites.uta.edu/cseseniordesign/2025/08/11/bughouse-2/" target="_blank" class="visitBtn">
 			View Details
 		</a>
