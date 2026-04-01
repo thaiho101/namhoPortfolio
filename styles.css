@@ -22,10 +22,20 @@ body {
 .heroLink {
 	color: #ffe57a;
 	text-decoration: none;
+	transition: all 0.5s ease;
 }
 
-.heroLink span:hover {
+.fa-seedling {
+	color: lime;
+	transition: all 0.5s ease;
+}
+
+.heroLink span:hover, .heroLink .fa-seedling:hover {
 	background: none;
+}
+
+.heroLink:hover span, .heroLink:hover .fa-seedling {
+	text-shadow: 0 0 15px yellow;
 }
 
 .siteHeader {
@@ -427,8 +437,9 @@ body {
 
 .projectsLayout {
 	display: grid;
-	grid-template-columns: 1.2fr 1.8fr;
-	gap: 24px;
+	/* grid-template-columns: 1.2fr 1.8fr; */
+	grid-template-columns: 0.1fr 1fr 1.8fr;
+	gap: 5px;
 	align-items: start;
 }
 
@@ -642,10 +653,44 @@ span:hover {
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
   padding-left: 50px;
   display: flex;
-  width: 38%;
-  justify-content: flex-end;
+  flex-direction: column;
+  width: 100%;
+  align-items: center;
+  justify-content: flex-start;
+  text-align: center;
   padding-bottom: 15px;
+  position: sticky;
+  /* overflow: hidden; */
+  top: 370px;
+  z-index: 999;
+  left: 0;
+
+    padding: 6px 12px;
+  background: rgba(0, 0, 0, 0.5);
+  backdrop-filter: blur(8px);
+  border: 1px solid rgba(255, 215, 0, 0.2);
+  border-radius: 16px;
 }
+
+/* #projectCount {
+  color: gold; 
+  filter: drop-shadow(0px 0px 5px yellow); 
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  display: flex;
+  gap: 8px;
+  align-items: center;
+
+  position: fixed;
+  left: 24px;
+  top: 80px; 
+  z-index: 999;
+  
+  padding: 6px 12px;
+  background: rgba(0, 0, 0, 0.5);
+  backdrop-filter: blur(8px);
+  border: 1px solid rgba(255, 215, 0, 0.2);
+  border-radius: 999px;
+} */
 
 
 

@@ -15,7 +15,7 @@
 <header class="siteHeader">
 	<div class="brand">
 		<a class='heroLink' href='#hero'>
-			<i class="fas fa-seedling" style='color: lime'></i>
+			<i class="fas fa-seedling"></i>
 			<span>Nam Ho</span>
 		</a>
 	</div>
@@ -189,9 +189,10 @@
 		<h2 class="sectionTitle">Featured Projects</h2>
 	</div>
 
-  <div id='projectCount'><i class="fas fa-layer-group"></i> Total: 6 Projects</div>
+  <!-- <div id='projectCount'><i class="fas fa-layer-group"></i> Total: 6 Projects</div> -->
 
 	<div class="projectsLayout">
+		<div id='projectCount'><i class="fas fa-layer-group"></i> Total: 6 Projects</div>
 		<div class="projectsList">
 
 
@@ -412,6 +413,8 @@
 		</a>
 
 	</div>
+	<script src='./frontend/projectTracker.js'></script>
+	<script src="./frontend/projectPreview.js"></script>
 </section>
 
 <section id="experience" class="contentSection">
@@ -603,6 +606,6 @@
 	<p>© <?= date('Y') ?> Nam Ho. All rights reserved.</p>
 </footer>
 
-<script src="./script.js"></script>
+
 </body>
 </html>
