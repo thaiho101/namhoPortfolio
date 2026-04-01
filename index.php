@@ -472,6 +472,50 @@
 			</div>
 		</div>
 
+		<div class="timelineItem">
+			<div class="timelineDot"></div>
+			<div class="glassCard">
+				<div class="timelineItemSub">
+				<h3>SS Logistics Co., Ltd (Song Song Logistics)</h3>
+				<p class="expMeta">Ho Chi Minh City, Vietnam • Aug 2017 – Sep 2018 (Full Time - <i class="fa-regular fa-calendar"></i> 1 year 2 months)</p>
+
+				<div class="roleBlock">
+					<h4>Freight Sales Representative</h4>
+					<ul class="expList">
+					<li>Sold international freight services including sea and air cargo 
+					to businesses importing and exporting goods.</li>
+					<li>Prospected and managed client relationships, identifying shipping 
+					needs and recommending appropriate freight solutions.</li>
+					<li>Coordinated with carriers and logistics partners to provide 
+					competitive freight quotes and ensure smooth shipment execution.</li>
+					</ul>
+				</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="timelineItem">
+			<div class="timelineDot"></div>
+			<div class="glassCard">
+				<div class="timelineItemSub">
+				<h3>RYLOGS International Transport Co., Ltd</h3>
+				<p class="expMeta">Ho Chi Minh City, Vietnam • Nov 2016 – Jun 2017 (Full Time - <i class="fa-regular fa-calendar"></i> 8 months)</p>
+
+				<div class="roleBlock">
+					<h4>Operations Coordinator</h4>
+					<ul class="expList">
+					<li>Managed end-to-end import freight operations including customs clearance, 
+					port procedures, and cargo release at seaport and airport facilities.</li>
+					<li>Coordinated bill of lading payments and documentation with customs 
+					authorities to ensure compliant and timely cargo release.</li>
+					<li>Arranged ground transportation (trucks and container vehicles) to deliver 
+					cargo from port and container yards to client warehouses and factories.</li>
+					</ul>
+				</div>
+				</div>
+			</div>
+		</div>
+
 	</div>
 
 </section>
