@@ -61,8 +61,8 @@
 			<ul>
         <li>Production-ready web applications</li>
         <li>Workflow & business systems</li>
-        <li>React (Senior Design Project)</li>
-        <li>Python (Algorithm Practice – LeetCode)</li>
+        <li>React (Senior Design Project – BugHouse)</li>
+        <li>Python (Data Structures & Algorithms)</li>
 			</ul>
 		</div>
 	</div>
@@ -88,8 +88,8 @@
 			</p>
 
 			<p>
-				Built systems that reduced order processing time from one week to one day,
-				while improving data accuracy and usability.
+				Focused on building tools that non-technical staff can use confidently,
+				with clean interfaces and reliable data tracking.
 			</p>
 		</div>
 
@@ -361,7 +361,7 @@
 
 							<li>Built and evolved a workflow system <a href='#receiveFlow' class='projectNavigation'>(ReceiveFlow)</a> to digitize order processing, later extending it into an external web platform.</li>
 
-							<li><span class='highlight'>Reduced order processing time from one week to one day (87% faster) through automation.</span> through automation.</li>
+							<li><span class='highlight'>Reduced order processing time from one week to one day (87% faster) through automation.</span></li>
 
 							<li>Implemented validation logic and audit tracking to improve data accuracy and reliability.</li>
 
@@ -418,12 +418,12 @@
 
 		<div class="skillCard">
 			<h3><i class="fas fa-laptop-code"></i> Frontend</h3>
-			<p>HTML, CSS, JavaScript, React (in progress), Responsive Design</p>
+			<p>HTML, CSS, JavaScript, React, Responsive Design</p>
 		</div>
 
 		<div class="skillCard">
 			<h3><i class="fas fa-database"></i> Backend / Data</h3>
-			<p>MySQL, MongoDB, relational database design, API logic, Python (in progress)</p>
+			<p>MySQL, MongoDB, relational database design, API logic, Python</p>
 		</div>
 
 		<div class="skillCard">
