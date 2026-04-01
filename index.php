@@ -14,12 +14,15 @@
 
 <header class="siteHeader">
 	<div class="brand">
-		<i class="fas fa-seedling" style='color: lime'></i>
-		<span>Nam Ho</span>
+		<a class='heroLink' href='#hero'>
+			<i class="fas fa-seedling" style='color: lime'></i>
+			<span>Nam Ho</span>
+		</a>
 	</div>
 
 	<nav class="topNav">
 		<a href="#about">About</a>
+		<a href="#education">Education</a>
 		<a href="#projects">Projects</a>
 		<a href="#capstone">Capstone</a>
 		<a href="#experience">Experience</a>
@@ -31,41 +34,66 @@
 <main class="mainWrapper">
 
 
-<section class="heroSection">
-	<div class="heroText">
-		<p class="heroTag">Full-Stack Web Developer • Problem Solver • Real-World Systems</p>
-		<h1>Nam Ho</h1>
-		<h2>Software Engineering Portfolio</h2>
-
-		<p class="heroIntro">
-			Built real-world systems that reduced operational time from 1 week to 1 day.
-
-			I develop practical web applications focused on workflow systems,
-			database-driven solutions, and improving operational efficiency.
+<section id='hero' class="heroSection">
+  <div class="heroText">
+	<div class='status'>    
+		<p class="heroSubLocation">
+      		<span class="locDot"></span>
+				DFW,  TX &nbsp;•&nbsp; U.S. Citizen
 		</p>
-
-		<p class="heroSub">
-			Based in Texas • Open to full-time Software Engineering roles
+		<p class="heroSubStatus">
+      		<span class="statusDot"></span>
+				Available for full-time Software Engineering roles
 		</p>
-
-		<div class="heroButtons">
-			<a href="#projects" class="primaryBtn">View Projects</a>
-			<a href="#contact" class="secondaryBtn">Contact Me</a>
-		</div>
 	</div>
+    <p class="heroTag">Full-Stack Web Developer • Problem Solver • Real-World Systems</p>
+    <h1>Nam Ho</h1>
+    <h2>Software Engineering</h2>
 
-	<div class="heroCard">
-		<div class="heroCardInner">
-			<p class="smallLabel">Current Focus</p>
-			<h3>Full-Stack Development</h3>
-			<ul>
+    <p class="heroIntro">
+      Full-Stack Developer who builds systems that solve real operational problems.
+    </p>
+
+	<br>
+
+    <div class="heroMetrics">
+      <div class="metricBox">
+        <span class="metricVal">7x</span>
+        <span class="metricLabel">Faster order processing</span>
+      </div>
+      <div class="metricBox">
+        <span class="metricVal">9+</span>
+        <span class="metricLabel">Years Professional Experience</span>
+      </div>
+      <div class="metricBox">
+        <span class="metricVal">6</span>
+        <span class="metricLabel">Live projects</span>
+      </div>
+      <div class="metricBox">
+        <span class="metricVal metricValSm">Cum Laude</span>
+        <span class="metricLabel">Academic honor</span>
+      </div>
+    </div>
+
+    <div class="heroButtons">
+      <a href="#projects" class="primaryBtn">View Projects</a>
+      <a href="#contact" class="secondaryBtn">Contact Me</a>
+	  <a href="" class="secondaryBtn">RESUMÉ (SWE)</a>
+    </div>
+  </div>
+
+  <div class="heroCard">
+    <div class="heroCardInner">
+      <p class="smallLabel">Current Focus</p>
+      <h3>Full-Stack Development</h3>
+      <ul>
         <li>Production-ready web applications</li>
         <li>Workflow & business systems</li>
-        <li>React (Senior Design Project)</li>
-        <li>Python (Algorithm Practice – LeetCode)</li>
-			</ul>
-		</div>
-	</div>
+        <li>React – BugHouse (Capstone)</li>
+        <li>Python – DSA practice</li>
+      </ul>
+    </div>
+  </div>
 </section>
 
 
@@ -88,8 +116,8 @@
 			</p>
 
 			<p>
-				Built systems that reduced order processing time from one week to one day,
-				while improving data accuracy and usability.
+				Focused on building tools that non-technical staff can use confidently,
+				with clean interfaces and reliable data tracking.
 			</p>
 		</div>
 
@@ -98,7 +126,7 @@
 			<ul class="infoList">
 				<li>Full-Stack Development (PHP, MySQL, JavaScript)</li>
 				<li>Built real-world systems with measurable business impact (uniform supply industry)</li>
-				<li>Reduced processing time from 1 week → 1 day</li>
+				<li>Reduced order processing time by 7x (1 week → 1 day)</li>
 				<li>Improved workflow efficiency and data accuracy</li>
 				<li>Experience working in real operational environments</li>
 				<li>Seeking full-time Software Engineering roles</li>
@@ -106,6 +134,54 @@
 		</div>
 	</div>
 </section>
+
+<section id="education" class="contentSection">
+  <div class="sectionTitleWrap">
+    <p class="sectionMiniTitle">Education</p>
+    <h2 class="sectionTitle">Academic Background</h2>
+  </div>
+
+  <div class="timeline">
+
+    <div class="timelineItem">
+      <div class="timelineDot"></div>
+      <div class="glassCard school">
+        <h3>University of Texas at Arlington</h3>
+		<p class="schoolDate">Jan 2024 – Expected May 2026</p>
+		<div class='companyDuration'>
+        	<p class="award"><span style='text-shadow: 0 0 5px white;'>🎓</span> B.S. Computer Software Engineering</p>
+			<p class='award'><span style='text-shadow: 0 0 10px yellow;'>🏅</span> Cum Laude</p>
+		</div>
+      </div>
+    </div>
+
+    <div class="timelineItem">
+      <div class="timelineDot"></div>
+      <div class="glassCard school">
+        <h3>Dallas College</h3>
+		<p class="schoolDate">Aug 2021 – Dec 2023 • Dallas, TX</p>
+		<div class='companyDuration'>
+        	<p class="award"><span style='text-shadow: 0 0 5px white;'>🎓</span> A.S. Computer Software Engineering</p>
+			<p class='award'><span style='text-shadow: 0 0 10px yellow;'>🏅</span> Phi Theta Kappa Honor Society</p>
+		</div>
+      </div>
+    </div>
+
+	<div class="timelineItem">
+		<div class="timelineDot"></div>
+		<div class="glassCard school">
+			<h3>Open University</h3>
+			<p class="schoolDate">Dec 2012 – Sep 2016 •  Vietnam</p>
+			<div class='companyDuration'>
+				<p class="award"><span style='text-shadow: 0 0 5px white;'>🎓</span> B.S. International Business</p>
+			</div>
+		</div>
+	</div>
+
+  </div>
+</section>
+
+
 
 <section id="projects" class="contentSection">
 	<div class="sectionTitleWrap">
@@ -128,7 +204,7 @@
 					<p>
 						A workflow system I designed based on real warehouse receiving challenges I experienced while working in the uniform supply industry.
 						It replaces manual sorting and spreadsheet tracking with order-based processing, real-time validation, and audit logging.
-						Reduced order preparation time from one week to one day.
+						<span class='highlight'>Reduced order preparation time by 7x (1 week → 1 day)</span>.
 					</p>
 					<div class="projectTags">
 						<span>Workflow System</span>
@@ -349,7 +425,7 @@
 					<h3>Crown Digital LLC (Metro Uniforms)</h3>
 					<div class='companyDuration'>
 						<p class="expMeta">Dallas, TX • 2019 – 2025 (Full Time - <i class="fa-regular fa-calendar"></i> 6 years 1 month)</p>
-						<p class='award'>🏆 5-Year Service Award</p>
+						<p class='award'><span style='text-shadow: 0 0 10px yellow;'>🏆</span> 5-Year Service Award</p>
 					</div>
 
 					<div class="roleBlock role1">
@@ -361,7 +437,7 @@
 
 							<li>Built and evolved a workflow system <a href='#receiveFlow' class='projectNavigation'>(ReceiveFlow)</a> to digitize order processing, later extending it into an external web platform.</li>
 
-							<li><span class='highlight'>Reduced order processing time from one week to one day (87% faster) through automation.</span> through automation.</li>
+							<li><span class='highlight'>Reduced order processing time by 7x (1 week → 1 day) through system automation.</span></li>
 
 							<li>Implemented validation logic and audit tracking to improve data accuracy and reliability.</li>
 
@@ -370,8 +446,6 @@
 							<li>Led a team of <span class='highlight'>9+ employees</span>, improving productivity by <span class='highlight'>20%</span>.</li>
 									
 							<li><span class='highlight'>Expanded role to manage both warehouse and newly launched retail operations.</span></li>
-
-							<li>Built a high-performance team culture, improving accountability and operational efficiency.</li>
 
 							<li>Recognized with a 5-Year Service Award for long-term contribution and reliability (June 2024)</li>
 							
@@ -418,12 +492,12 @@
 
 		<div class="skillCard">
 			<h3><i class="fas fa-laptop-code"></i> Frontend</h3>
-			<p>HTML, CSS, JavaScript, React (in progress), Responsive Design</p>
+			<p>HTML, CSS, JavaScript, React, Responsive Design</p>
 		</div>
 
 		<div class="skillCard">
 			<h3><i class="fas fa-database"></i> Backend / Data</h3>
-			<p>MySQL, MongoDB, relational database design, API logic, Python (in progress)</p>
+			<p>MySQL, MongoDB, relational database design, API logic, Python</p>
 		</div>
 
 		<div class="skillCard">
