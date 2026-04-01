@@ -700,14 +700,12 @@ span:hover {
 }
 
 .timelineDotSub1 {
-	/* top: 93.5px; */
-	top: 15.4%;
+	top: 16.2%;
 	transition: all 0.7s ease;
 }
 
 .timelineDotSub2 {
-	/* top: 409px; */
-	top: 78.1%;
+	top: 77.1%;
 	background: rgba(255, 217, 0, 0.565);
 	transition: all 0.7s ease;
 }
@@ -922,11 +920,11 @@ span:hover {
 
 	.timelineDotSub1 {
 		/* top: 156.5px; */
-		top: 12.32%;
+		top: 13.6%;
 	}
 
 	.timelineDotSub2 {
-		top: 83.1%;
+		top: 81.4%;
 	}
 
 	.companyDuration {
