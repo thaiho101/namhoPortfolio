@@ -15,7 +15,7 @@
 <header class="siteHeader">
 	<div class="brand">
 		<a class='heroLink' href='#hero'>
-			<i class="fas fa-seedling" style='color: lime'></i>
+			<i class="fas fa-seedling"></i>
 			<span>Nam Ho</span>
 		</a>
 	</div>
@@ -143,7 +143,7 @@
 
   <div class="timeline">
 
-    <div class="timelineItem">
+    <div class="timelineItem eduTimeline">
       <div class="timelineDot"></div>
       <div class="glassCard school">
         <h3>University of Texas at Arlington</h3>
@@ -155,7 +155,7 @@
       </div>
     </div>
 
-    <div class="timelineItem">
+    <div class="timelineItem eduTimeline">
       <div class="timelineDot"></div>
       <div class="glassCard school">
         <h3>Dallas College</h3>
@@ -167,7 +167,7 @@
       </div>
     </div>
 
-	<div class="timelineItem">
+	<div class="timelineItem eduTimeline">
 		<div class="timelineDot"></div>
 		<div class="glassCard school">
 			<h3>Open University</h3>
@@ -189,173 +189,175 @@
 		<h2 class="sectionTitle">Featured Projects</h2>
 	</div>
 
-  <div id='projectCount'><i class="fas fa-layer-group"></i> Total: 6 Projects</div>
-
-	<div class="projectsLayout">
-		<div class="projectsList">
-
-
-			<div id='receiveFlow' class="projectCard" data-preview="receiveFlowImageReview">
-				<div class="projectText">
-					<div class="projectTopLine">
-						<h3>ReceiveFlow – Workflow System</h3>
-						<a href="https://github.com/thaiho101" target="_blank" class="visitBtn"><i class="fab fa-github"></i></a>
-						<a href="https://namho-receiveflow.fortuneterm.com" target="_blank" class="visitBtn">View Live</a>
-					</div>
-					<p>
-						A workflow system I designed based on real warehouse receiving challenges I experienced while working in the uniform supply industry.
-						It replaces manual sorting and spreadsheet tracking with order-based processing, real-time validation, and audit logging.
-						<span class='highlight'>Reduced order preparation time by 7x (1 week → 1 day)</span>.
-					</p>
-					<div class="projectTags">
-						<span>Workflow System</span>
-						<span>Validation Engine</span>
-						<span>Audit Logging</span>
-					</div>
-				</div>
-			</div>
+  	<div id='projectCount'><div class="timelineDotProject"></div> <div>Total: 6 Projects</div></div>
+	<div class='projectsLayoutCover'>
+		<div class="projectsLayout">
+			<div class="projectsList">
 
 
-			<div class="projectCard" data-preview="naturalizationTestImageReview">
-				<div class="projectText">
-					<div class="projectTopLine">
-						<h3>PassUSCIS – Citizenship Test Platform</h3>
-						<a href="https://github.com/thaiho101" target="_blank" class="visitBtn"><i class="fab fa-github"></i></a>
-						<a href="https://passuscis.com" target="_blank" class="visitBtn">View Live</a>
-					</div>
-            <p>
-              A full-stack web application I developed to improve the experience of studying for the U.S. citizenship test.
-
-              The platform was built to address real usability issues such as limited access to physical materials and ad-heavy mobile apps. 
-              It provides multilingual support, interactive quizzes, and text-to-speech features for flexible, on-the-go learning.
-
-              The system was successfully used for personal and family preparation, contributing to passing the citizenship test, 
-              and is now available as a free public web application.
-            </p>
-					<div class="projectTags">
-            <span>Education Platform</span>
-            <span>Multilingual</span>
-            <span>Text-to-Speech</span>
-            <span>Public web application</span>
+				<div id='receiveFlow' class="projectCard" data-preview="receiveFlowImageReview">
+					<div class="projectText">
+						<div class="projectTopLine">
+							<h3>ReceiveFlow – Workflow System</h3>
+							<a href="https://github.com/thaiho101" target="_blank" class="visitBtn"><i class="fab fa-github"></i></a>
+							<a href="https://namho-receiveflow.fortuneterm.com" target="_blank" class="visitBtn">View Live</a>
+						</div>
+						<p>
+							A workflow system I designed based on real warehouse receiving challenges I experienced while working in the uniform supply industry.
+							It replaces manual sorting and spreadsheet tracking with order-based processing, real-time validation, and audit logging.
+							<span class='highlight'>Reduced order preparation time by 7x (1 week → 1 day)</span>.
+						</p>
+						<div class="projectTags">
+							<span>Workflow System</span>
+							<span>Validation Engine</span>
+							<span>Audit Logging</span>
+						</div>
 					</div>
 				</div>
-			</div>
 
 
-			<div class="projectCard" data-preview="marketCostImageReview">
-				<div class="projectText">
-					<div class="projectTopLine">
-						<h3>Market Cost – Budget Tracker</h3>
-						<a href="https://github.com/thaiho101" target="_blank" class="visitBtn"><i class="fab fa-github"></i></a>
-						<a href="https://marketcost.fortuneterm.com" target="_blank" class="visitBtn">View Live</a>
-					</div>
-            <p>
-              A full-stack budgeting and expense tracking application I built to solve real personal financial challenges, specifically tracking spending and preventing monthly overspending.
+				<div class="projectCard" data-preview="naturalizationTestImageReview">
+					<div class="projectText">
+						<div class="projectTopLine">
+							<h3>PassUSCIS – Citizenship Test Platform</h3>
+							<a href="https://github.com/thaiho101" target="_blank" class="visitBtn"><i class="fab fa-github"></i></a>
+							<a href="https://passuscis.com" target="_blank" class="visitBtn">View Live</a>
+						</div>
+				<p>
+				A full-stack web application I developed to improve the experience of studying for the U.S. citizenship test.
 
-              The system enables users to set budgets, log transactions, and visualize spending patterns through interactive dashboards.
+				The platform was built to address real usability issues such as limited access to physical materials and ad-heavy mobile apps. 
+				It provides multilingual support, interactive quizzes, and text-to-speech features for flexible, on-the-go learning.
 
-              By making financial data visible and easy to understand, the application helps users make better spending decisions and stay within their budget.
-            </p>
-					<div class="projectTags">
-            <span>Budget Tracking</span>
-						<span>Data Visualization</span>
-            <span>Personal Finance</span>
-            <span>Dashboard</span>
-            <span>Real Usage</span>
-            <span>Authentication</span>
-            <span>Public web application</span>
-					</div>
-				</div>
-			</div>
-
-
-			<div id='uniformVoucher' class="projectCard" data-preview="uniformsVoucherImageReview">
-				<div class="projectText">
-					<div class="projectTopLine">
-						<h3>Uniform Voucher Management System</h3>
-						<a href="https://github.com/thaiho101" target="_blank" class="visitBtn"><i class="fab fa-github"></i></a>
-						<a href="https://namho-uniform-voucher-demo.fortuneterm.com" target="_blank" class="visitBtn">View Live</a>
-					</div>
-					<p>
-              An internal workflow system I developed to replace manual voucher tracking and spreadsheet-based processes in warehouse operations.
-
-              The system centralizes employee voucher data, allowing users to track status, monitor completion progress, and generate reports across multiple organizations and employee groups.
-
-              Key features include dynamic filtering, CSV export, and data visualization dashboards, improving operational visibility and reducing manual tracking errors.
-					</p>
-					<div class="projectTags">
-						<span>Business System</span>
-            <span>Dashboard</span>
-            <span>Reporting</span>
-            <span>Data Visualization</span>
+				The system was successfully used for personal and family preparation, contributing to passing the citizenship test, 
+				and is now available as a free public web application.
+				</p>
+						<div class="projectTags">
+				<span>Education Platform</span>
+				<span>Multilingual</span>
+				<span>Text-to-Speech</span>
+				<span>Public web application</span>
+						</div>
 					</div>
 				</div>
-			</div>
 
 
-			<div class="projectCard" data-preview="timeLogsImageReview">
-				<div class="projectText">
-					<div class="projectTopLine">
-						<h3>TimeLogs – Work Hour Tracker</h3>
-						<a href="https://github.com/thaiho101" target="_blank" class="visitBtn"><i class="fab fa-github"></i></a>
-						<a href="https://namho-timelogs.fortuneterm.com" target="_blank" class="visitBtn">View Live</a>
-					</div>
-            <p>
-              A web-based time tracking system I built to address real issues with unreliable time-scanning systems in the workplace.
+				<div class="projectCard" data-preview="marketCostImageReview">
+					<div class="projectText">
+						<div class="projectTopLine">
+							<h3>Market Cost – Budget Tracker</h3>
+							<a href="https://github.com/thaiho101" target="_blank" class="visitBtn"><i class="fab fa-github"></i></a>
+							<a href="https://marketcost.fortuneterm.com" target="_blank" class="visitBtn">View Live</a>
+						</div>
+				<p>
+				A full-stack budgeting and expense tracking application I built to solve real personal financial challenges, specifically tracking spending and preventing monthly overspending.
 
-              The application allows users to manually log clock-in and clock-out times, automatically calculate total hours, and maintain accurate records for verification.
+				The system enables users to set budgets, log transactions, and visualize spending patterns through interactive dashboards.
 
-              It provides a reliable way to track work hours and helps users validate their time records in cases where official scanning systems fail.
-            </p>
-					<div class="projectTags">
-            <span>Time Tracking</span>
-            <span>Backup System</span>
-            <span>Admin Dashboard</span>
-            <span>Public web application</span>
-					</div>
-				</div>
-			</div>
-
-
-			<div class="projectCard" data-preview="utaSlotTrackerImageReview">
-				<div class="projectText">
-					<div class="projectTopLine">
-						<h3>UTA Slot Tracker</h3>
-						<a href="https://github.com/thaiho101" target="_blank" class="visitBtn"><i class="fab fa-github"></i></a>
-						<a href="https://namho-utaslottracker.fortuneterm.com" target="_blank" class="visitBtn">View Live</a>
-					</div>
-            <p>
-              A front-end web application developed as part of a team project aimed at improving campus parking efficiency during peak hours.
-
-              The system displays parking availability and capacity across multiple locations using a visual, map-based interface to help users quickly find available spaces.
-
-              I was responsible for developing the interactive front-end using JavaScript and HTML, focusing on usability and real-time visual feedback.
-            </p>
-					<div class="projectTags">
-            <span>Frontend</span>
-            <span>JavaScript</span>
-            <span>Data Visualization</span>
+				By making financial data visible and easy to understand, the application helps users make better spending decisions and stay within their budget.
+				</p>
+						<div class="projectTags">
+				<span>Budget Tracking</span>
+							<span>Data Visualization</span>
+				<span>Personal Finance</span>
+				<span>Dashboard</span>
+				<span>Real Usage</span>
+				<span>Authentication</span>
+				<span>Public web application</span>
+						</div>
 					</div>
 				</div>
+
+
+				<div id='uniformVoucher' class="projectCard" data-preview="uniformsVoucherImageReview">
+					<div class="projectText">
+						<div class="projectTopLine">
+							<h3>Uniform Voucher Management System</h3>
+							<a href="https://github.com/thaiho101" target="_blank" class="visitBtn"><i class="fab fa-github"></i></a>
+							<a href="https://namho-uniform-voucher-demo.fortuneterm.com" target="_blank" class="visitBtn">View Live</a>
+						</div>
+						<p>
+				An internal workflow system I developed to replace manual voucher tracking and spreadsheet-based processes in warehouse operations.
+
+				The system centralizes employee voucher data, allowing users to track status, monitor completion progress, and generate reports across multiple organizations and employee groups.
+
+				Key features include dynamic filtering, CSV export, and data visualization dashboards, improving operational visibility and reducing manual tracking errors.
+						</p>
+						<div class="projectTags">
+							<span>Business System</span>
+				<span>Dashboard</span>
+				<span>Reporting</span>
+				<span>Data Visualization</span>
+						</div>
+					</div>
+				</div>
+
+
+				<div class="projectCard" data-preview="timeLogsImageReview">
+					<div class="projectText">
+						<div class="projectTopLine">
+							<h3>TimeLogs – Work Hour Tracker</h3>
+							<a href="https://github.com/thaiho101" target="_blank" class="visitBtn"><i class="fab fa-github"></i></a>
+							<a href="https://namho-timelogs.fortuneterm.com" target="_blank" class="visitBtn">View Live</a>
+						</div>
+				<p>
+				A web-based time tracking system I built to address real issues with unreliable time-scanning systems in the workplace.
+
+				The application allows users to manually log clock-in and clock-out times, automatically calculate total hours, and maintain accurate records for verification.
+
+				It provides a reliable way to track work hours and helps users validate their time records in cases where official scanning systems fail.
+				</p>
+						<div class="projectTags">
+				<span>Time Tracking</span>
+				<span>Backup System</span>
+				<span>Admin Dashboard</span>
+				<span>Public web application</span>
+						</div>
+					</div>
+				</div>
+
+
+				<div class="projectCard" data-preview="utaSlotTrackerImageReview">
+					<div class="projectText">
+						<div class="projectTopLine">
+							<h3>UTA Slot Tracker</h3>
+							<a href="https://github.com/thaiho101" target="_blank" class="visitBtn"><i class="fab fa-github"></i></a>
+							<a href="https://namho-utaslottracker.fortuneterm.com" target="_blank" class="visitBtn">View Live</a>
+						</div>
+				<p>
+				A front-end web application developed as part of a team project aimed at improving campus parking efficiency during peak hours.
+
+				The system displays parking availability and capacity across multiple locations using a visual, map-based interface to help users quickly find available spaces.
+
+				I was responsible for developing the interactive front-end using JavaScript and HTML, focusing on usability and real-time visual feedback.
+				</p>
+						<div class="projectTags">
+				<span>Frontend</span>
+				<span>JavaScript</span>
+				<span>Data Visualization</span>
+						</div>
+					</div>
+				</div>
+
 			</div>
 
+			<div class="previewPanel">
+				<div class="previewDefault" id="previewDefault">
+					<p class="smallLabel">Project Preview</p>
+					<h3>Hover a project</h3>
+					<p>The screenshot preview will appear here.</p>
+				</div>
+
+				<div id="receiveFlowImageReview" class="previewBox fitFrame"></div>
+				<div id="naturalizationTestImageReview" class="previewBox fitFrame"></div>
+				<div id="marketCostImageReview" class="previewBox fitFrame"></div>
+				<div id="uniformsVoucherImageReview" class="previewBox fitFrame"></div>
+				<div id="timeLogsImageReview" class="previewBox fitFrame"></div>
+				<div id="utaSlotTrackerImageReview" class="previewBox fitFrame"></div>
+
+			</div>
 		</div>
 
-		<div class="previewPanel">
-			<div class="previewDefault" id="previewDefault">
-				<p class="smallLabel">Project Preview</p>
-				<h3>Hover a project</h3>
-				<p>The screenshot preview will appear here.</p>
-			</div>
-
-			<div id="receiveFlowImageReview" class="previewBox fitFrame"></div>
-			<div id="naturalizationTestImageReview" class="previewBox fitFrame"></div>
-			<div id="marketCostImageReview" class="previewBox fitFrame"></div>
-			<div id="uniformsVoucherImageReview" class="previewBox fitFrame"></div>
-			<div id="timeLogsImageReview" class="previewBox fitFrame"></div>
-			<div id="utaSlotTrackerImageReview" class="previewBox fitFrame"></div>
-
-		</div>
 	</div>
 </section>
 
@@ -412,6 +414,8 @@
 		</a>
 
 	</div>
+	<script src='./frontend/projectTracker.js'></script>
+	<script src="./frontend/projectPreview.js"></script>
 </section>
 
 <section id="experience" class="contentSection">
@@ -603,6 +607,6 @@
 	<p>© <?= date('Y') ?> Nam Ho. All rights reserved.</p>
 </footer>
 
-<script src="./script.js"></script>
+
 </body>
 </html>
