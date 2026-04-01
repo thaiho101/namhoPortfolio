@@ -437,8 +437,8 @@ body {
 
 .projectsLayout {
 	display: grid;
-	/* grid-template-columns: 1.2fr 1.8fr; */
-	grid-template-columns: 0.1fr 1fr 1.8fr;
+	grid-template-columns: 1.2fr 1.8fr;
+	/* grid-template-columns: 0.1fr 1fr 1.8fr; */
 	gap: 5px;
 	align-items: start;
 }
@@ -647,53 +647,51 @@ span:hover {
 	padding: 40px 5vw 80px;
 }
 
+.timelineDotProject {
+	left: -11px;
+	top: 33px;
+	width: 20px;
+	height: 20px;
+	background-image: url(photoReview/diamond2.png);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 150%;
+	background-position: left 30% top 20%;
+	box-shadow: 0 0 10px white;
+	rotate: 45deg;
+	border: .5px outset silver;
+}
+
 #projectCount {
   color: gold; 
-  filter: drop-shadow(0px 0px 5px yellow); 
+  /* filter: drop-shadow(0px 0px 5px yellow);  */
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
   padding-left: 50px;
   display: flex;
   flex-direction: column;
-  width: 100%;
+  width: 5%;
   align-items: center;
   justify-content: flex-start;
   text-align: center;
   padding-bottom: 15px;
   position: sticky;
-  /* overflow: hidden; */
   top: 370px;
   z-index: 999;
   left: 0;
 
-    padding: 6px 12px;
-  background: rgba(0, 0, 0, 0.5);
+	padding: 2px 12px;
+  background: rgba(0, 0, 0, 0.144);
   backdrop-filter: blur(8px);
-  border: 1px solid rgba(255, 215, 0, 0.2);
+  /* border: 1px solid rgba(255, 215, 0, 0.2); */
   border-radius: 16px;
+  gap: 5px;
 }
 
-/* #projectCount {
-  color: gold; 
-  filter: drop-shadow(0px 0px 5px yellow); 
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  display: flex;
-  gap: 8px;
-  align-items: center;
-
-  position: fixed;
-  left: 24px;
-  top: 80px; 
-  z-index: 999;
-  
-  padding: 6px 12px;
-  background: rgba(0, 0, 0, 0.5);
-  backdrop-filter: blur(8px);
-  border: 1px solid rgba(255, 215, 0, 0.2);
-  border-radius: 999px;
-} */
-
-
-
+.projectsLayoutCover {
+	border-left: 2px solid rgba(255, 215, 0, 0.3);
+	margin-left: 2.4%;
+	padding-left: 40px;
+}
 
 .timeline {
 	position: relative;
@@ -807,7 +805,6 @@ span:hover {
 .roleBlock {
 	margin-top: 20px;
 	padding-left: 10px;
-	/* border-left: 2px solid rgba(255, 215, 0, 0.2); */
 }
 
 .roleBlock h4 {
@@ -912,7 +909,7 @@ span:hover {
 
 
 
-@media (max-width: 700px) {
+@media (max-width: 768px) {
 
 	.status {
 		display: flex;
@@ -980,5 +977,10 @@ span:hover {
 	width: 100%;
 	gap: 20px;
 	width: 100%;
-}
+	}
+
+	.projectsLayoutCover {
+		margin-left: 3%;
+		padding-left: 30px;
+	}
 }
