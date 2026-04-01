@@ -867,6 +867,9 @@ span:hover {
 	background: rgba(255, 217, 0, 0.071);
 }
 
+.eduTimeline {
+	margin-bottom: 15px;
+}
 
 
 #about,

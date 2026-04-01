@@ -143,7 +143,7 @@
 
   <div class="timeline">
 
-    <div class="timelineItem">
+    <div class="timelineItem eduTimeline">
       <div class="timelineDot"></div>
       <div class="glassCard school">
         <h3>University of Texas at Arlington</h3>
@@ -155,7 +155,7 @@
       </div>
     </div>
 
-    <div class="timelineItem">
+    <div class="timelineItem eduTimeline">
       <div class="timelineDot"></div>
       <div class="glassCard school">
         <h3>Dallas College</h3>
@@ -167,7 +167,7 @@
       </div>
     </div>
 
-	<div class="timelineItem">
+	<div class="timelineItem eduTimeline">
 		<div class="timelineDot"></div>
 		<div class="glassCard school">
 			<h3>Open University</h3>
@@ -189,7 +189,7 @@
 		<h2 class="sectionTitle">Featured Projects</h2>
 	</div>
 
-  	<div id='projectCount'><div class="timelineDotProject"></div> Total: 6 Projects</div>
+  	<div id='projectCount'><div class="timelineDotProject"></div> <div>Total: 6 Projects</div></div>
 	<div class='projectsLayoutCover'>
 		<div class="projectsLayout">
 			<div class="projectsList">
