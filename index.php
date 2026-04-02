@@ -106,17 +106,17 @@
 	<div class="aboutGrid">
 		<div class="glassCard">
 			<p style='padding-bottom: 10px;'>
-				Software Engineering student at the University of Texas at Arlington (Expected May 2026),
+				- Software Engineering student at the University of Texas at Arlington (Expected May 2026),
 				with 6+ years of experience in warehouse operations and proven experience building real-world systems with measurable business impact.
 			</p>
 
 			<p style='padding-bottom: 10px;'>
-				Designed and developed internal web applications using PHP, MySQL, and JavaScript 
+				- Designed and developed internal web applications using PHP, MySQL, and JavaScript 
 				to replace manual workflows and streamline operations.
 			</p>
 
 			<p>
-				Focused on building tools that non-technical staff can use confidently,
+				- Focused on building tools that non-technical staff can use confidently,
 				with clean interfaces and reliable data tracking.
 			</p>
 		</div>
