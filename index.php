@@ -398,32 +398,20 @@
 		<ul class="expList" style='padding-bottom: 20px;'>
 
 			<li>
-				Contributed to a large-scale web platform designed to manage tutoring sessions,
-				scheduling, and student-tutor interactions at UTA.
+				Contributed to a large-scale tutoring management platform at UTA, 
+				working within an existing MERN-based architecture (React, Node.js, Express, MongoDB).
 			</li>
-
 			<li>
-				Worked within an existing MERN-based architecture (React, Node.js, Express, MongoDB)
-				to extend system functionality and maintain legacy code.
+				<span class='highlight'>Implemented weekly report generation feature</span> 
+				for administrative reporting and data analysis.
 			</li>
-
 			<li>
-				Implemented CSV export features for administrative reporting and data analysis.
+				<span class='highlight'>Designed and optimized responsive UI for mobile devices</span>, 
+				improving accessibility and user experience across the platform.
 			</li>
-
 			<li>
-				Designed and optimized responsive UI for mobile devices to improve accessibility
-				and user experience.
-			</li>
-
-			<li>
-				Collaborated in a multi-developer team environment, contributing to feature
-				enhancements and system improvements.
-			</li>
-
-			<li>
-				Participated in maintaining a production-like system with authentication,
-				session tracking, and AWS SNS-based notification features.
+				Collaborated in a multi-developer team environment, contributing to 
+				feature enhancements and system improvements.
 			</li>
 
 		</ul>
