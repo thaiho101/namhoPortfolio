@@ -198,21 +198,26 @@
 				<div id='receiveFlow' class="projectCard" data-preview="receiveFlowImageReview">
 					<div class="projectText">
 						<div class="projectTopLine">
-							<h3>ReceiveFlow – Workflow System</h3>
+							<h3>ReceiveFlow – Warehouse Receiving System</h3>
 							<div class='visitButtonContent'>
 								<a href="https://github.com/thaiho101" target="_blank" class="visitBtn"><i class="fab fa-github"></i></a>
 								<a href="https://namho-receiveflow.fortuneterm.com" target="_blank" class="visitBtn">View Live</a>
 							</div>
 						</div>
-						<p>
-							A workflow system I designed based on real warehouse receiving challenges I experienced while working in the uniform supply industry.
-							It replaces manual sorting and spreadsheet tracking with order-based processing, real-time validation, and audit logging.
-							<span class='highlight'>Reduced order preparation time by 7x (1 week → 1 day)</span>.
-						</p>
+							<p>
+								A warehouse order receiving workflow system I designed to solve 
+								real challenges in the uniform supply industry. It replaces manual 
+								sorting and spreadsheet tracking with order-based processing, 
+								real-time validation, and audit logging. 
+								<span class='highlight'>Reduced order preparation time by 7x (1 week → 1 day).</span>
+							</p>
 						<div class="projectTags">
+							<span>Warehouse Operations</span>
+							<span>Real-time Validation</span>
 							<span>Workflow System</span>
 							<span>Validation Engine</span>
 							<span>Audit Logging</span>
+							<span>CSV Export</span>
 						</div>
 					</div>
 				</div>
@@ -227,19 +232,18 @@
 								<a href="https://passuscis.com" target="_blank" class="visitBtn">View Live</a>
 							</div>
 						</div>
-				<p>
-				A full-stack web application I developed to improve the experience of studying for the U.S. citizenship test.
-
-				The platform was built to address real usability issues such as limited access to physical materials and ad-heavy mobile apps. 
-				It provides multilingual support, interactive quizzes, and text-to-speech features for flexible, on-the-go learning.
-
-				The system was successfully used for personal and family preparation, contributing to passing the citizenship test, 
-				and is now available as a free public web application.
-				</p>
+							<p>
+							A full-stack web application for studying the U.S. citizenship test, 
+							featuring multilingual support, interactive quizzes, and text-to-speech. 
+							<span class='highlight'>Successfully used for personal and family preparation — 
+							helping family members pass the U.S. citizenship test.</span> 
+							Built as a free, <span class='highlight'>ad-free alternative</span> to existing mobile apps — now available as a public web application.
+							</p>
 						<div class="projectTags">
 				<span>Education Platform</span>
 				<span>Multilingual</span>
 				<span>Text-to-Speech</span>
+				<span>Ad-free</span>
 				<span>Public web application</span>
 						</div>
 					</div>
@@ -255,21 +259,22 @@
 								<a href="https://marketcost.fortuneterm.com" target="_blank" class="visitBtn">View Live</a>
 							</div>
 						</div>
-				<p>
-				A full-stack budgeting and expense tracking application I built to solve real personal financial challenges, specifically tracking spending and preventing monthly overspending.
-
-				The system enables users to set budgets, log transactions, and visualize spending patterns through interactive dashboards.
-
-				By making financial data visible and easy to understand, the application helps users make better spending decisions and stay within their budget.
-				</p>
+							<p>
+								A full-stack budgeting app I built to track spending and prevent overspending.
+								<span class='highlight'>actively used personally to manage and control monthly finances.</span>
+							</p>
+							<p>
+								Users can set budgets, log transactions, and visualize spending patterns 
+								through interactive dashboards.
+							</p>
 						<div class="projectTags">
-				<span>Budget Tracking</span>
+							<span>Budget Tracking</span>
 							<span>Data Visualization</span>
-				<span>Personal Finance</span>
-				<span>Dashboard</span>
-				<span>Real Usage</span>
-				<span>Authentication</span>
-				<span>Public web application</span>
+							<span>Personal Finance</span>
+							<span>Dashboard</span>
+							<span>Real Usage</span>
+							<span>Authentication</span>
+							<span>Public web application</span>
 						</div>
 					</div>
 				</div>
@@ -284,18 +289,22 @@
 								<a href="https://namho-uniform-voucher-demo.fortuneterm.com" target="_blank" class="visitBtn">View Live</a>
 							</div>
 						</div>
-						<p>
-				An internal workflow system I developed to replace manual voucher tracking and spreadsheet-based processes in warehouse operations.
-
-				The system centralizes employee voucher data, allowing users to track status, monitor completion progress, and generate reports across multiple organizations and employee groups.
-
-				Key features include dynamic filtering, CSV export, and data visualization dashboards, improving operational visibility and reducing manual tracking errors.
-						</p>
+							<p>
+							An internal workflow system 
+							<span class='highlight'>replacing manual voucher tracking in warehouse operations.</span>
+							</p>
+							<ul class='projectTextUl'>
+								<li>Centralized employee voucher data across multiple organizations</li>
+								<li>Dynamic filtering, CSV export, and data visualization dashboards</li>
+								<li>Reduced manual tracking errors and improved operational visibility</li>
+							</ul>
 						<div class="projectTags">
 							<span>Business System</span>
 				<span>Dashboard</span>
 				<span>Reporting</span>
+				<span>CSV Export</span>
 				<span>Data Visualization</span>
+				<span>Internal Tool</span>
 						</div>
 					</div>
 				</div>
@@ -311,16 +320,15 @@
 							</div>
 						</div>
 				<p>
-				A web-based time tracking system I built to address real issues with unreliable time-scanning systems in the workplace.
-
-				The application allows users to manually log clock-in and clock-out times, automatically calculate total hours, and maintain accurate records for verification.
-
-				It provides a reliable way to track work hours and helps users validate their time records in cases where official scanning systems fail.
+					A time tracking system built as a backup for unreliable workplace 
+					scanners. Users can log clock-in/out times, auto-calculate total hours, 
+					and verify records against official systems.
 				</p>
 						<div class="projectTags">
 				<span>Time Tracking</span>
 				<span>Backup System</span>
 				<span>Admin Dashboard</span>
+				<span>Real Usage</span>
 				<span>Public web application</span>
 						</div>
 					</div>
@@ -390,32 +398,20 @@
 		<ul class="expList" style='padding-bottom: 20px;'>
 
 			<li>
-				Contributed to a large-scale web platform designed to manage tutoring sessions,
-				scheduling, and student-tutor interactions at UTA.
+				Contributed to a large-scale tutoring management platform at UTA, 
+				working within an existing MERN-based architecture (React, Node.js, Express, MongoDB).
 			</li>
-
 			<li>
-				Worked within an existing MERN-based architecture (React, Node.js, Express, MongoDB)
-				to extend system functionality and maintain legacy code.
+				<span class='highlight'>Implemented weekly report generation feature</span> 
+				for administrative reporting and data analysis.
 			</li>
-
 			<li>
-				Implemented CSV export features for administrative reporting and data analysis.
+				<span class='highlight'>Designed and optimized responsive UI for mobile devices</span>, 
+				improving accessibility and user experience across the platform.
 			</li>
-
 			<li>
-				Designed and optimized responsive UI for mobile devices to improve accessibility
-				and user experience.
-			</li>
-
-			<li>
-				Collaborated in a multi-developer team environment, contributing to feature
-				enhancements and system improvements.
-			</li>
-
-			<li>
-				Participated in maintaining a production-like system with authentication,
-				session tracking, and AWS SNS-based notification features.
+				Collaborated in a multi-developer team environment, contributing to 
+				feature enhancements and system improvements.
 			</li>
 
 		</ul>

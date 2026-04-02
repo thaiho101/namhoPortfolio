@@ -502,6 +502,12 @@ body {
 	margin-bottom: 14px;
 }
 
+.projectTextUl {
+	padding-left: 20px;
+	padding-bottom: 15px;
+	color: #eee6bf;
+}
+
 .projectTags {
 	display: flex;
 	flex-wrap: wrap;
