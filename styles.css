@@ -474,6 +474,12 @@ body {
 	margin-bottom: 12px;
 }
 
+.visitButtonContent {
+	display: flex; 
+	flex-direction: row; 
+	gap: 6px;
+}
+
 .projectTopLine h3 {
 	font-size: 25px;
 	color: #fff1a8;
@@ -534,6 +540,8 @@ span:hover {
   background: rgba(255, 215, 0, 0.12);
   border-color: rgba(255, 215, 0, 0.8);
   color: #ffe57a;
+  transform: translateY(-4px);
+  box-shadow: 1px 5px 10px rgba(233, 233, 233, 0.184);
 }
 
 .previewPanel {

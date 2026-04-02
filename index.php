@@ -199,8 +199,10 @@
 					<div class="projectText">
 						<div class="projectTopLine">
 							<h3>ReceiveFlow – Workflow System</h3>
-							<a href="https://github.com/thaiho101" target="_blank" class="visitBtn"><i class="fab fa-github"></i></a>
-							<a href="https://namho-receiveflow.fortuneterm.com" target="_blank" class="visitBtn">View Live</a>
+							<div class='visitButtonContent'>
+								<a href="https://github.com/thaiho101" target="_blank" class="visitBtn"><i class="fab fa-github"></i></a>
+								<a href="https://namho-receiveflow.fortuneterm.com" target="_blank" class="visitBtn">View Live</a>
+							</div>
 						</div>
 						<p>
 							A workflow system I designed based on real warehouse receiving challenges I experienced while working in the uniform supply industry.
@@ -220,8 +222,10 @@
 					<div class="projectText">
 						<div class="projectTopLine">
 							<h3>PassUSCIS – Citizenship Test Platform</h3>
-							<a href="https://github.com/thaiho101" target="_blank" class="visitBtn"><i class="fab fa-github"></i></a>
-							<a href="https://passuscis.com" target="_blank" class="visitBtn">View Live</a>
+							<div class='visitButtonContent'>
+								<a href="https://github.com/thaiho101" target="_blank" class="visitBtn"><i class="fab fa-github"></i></a>
+								<a href="https://passuscis.com" target="_blank" class="visitBtn">View Live</a>
+							</div>
 						</div>
 				<p>
 				A full-stack web application I developed to improve the experience of studying for the U.S. citizenship test.
@@ -246,8 +250,10 @@
 					<div class="projectText">
 						<div class="projectTopLine">
 							<h3>Market Cost – Budget Tracker</h3>
-							<a href="https://github.com/thaiho101" target="_blank" class="visitBtn"><i class="fab fa-github"></i></a>
-							<a href="https://marketcost.fortuneterm.com" target="_blank" class="visitBtn">View Live</a>
+							<div class='visitButtonContent'>
+								<a href="https://github.com/thaiho101" target="_blank" class="visitBtn"><i class="fab fa-github"></i></a>
+								<a href="https://marketcost.fortuneterm.com" target="_blank" class="visitBtn">View Live</a>
+							</div>
 						</div>
 				<p>
 				A full-stack budgeting and expense tracking application I built to solve real personal financial challenges, specifically tracking spending and preventing monthly overspending.
@@ -273,8 +279,10 @@
 					<div class="projectText">
 						<div class="projectTopLine">
 							<h3>Uniform Voucher Management System</h3>
-							<a href="https://github.com/thaiho101" target="_blank" class="visitBtn"><i class="fab fa-github"></i></a>
-							<a href="https://namho-uniform-voucher-demo.fortuneterm.com" target="_blank" class="visitBtn">View Live</a>
+							<div class='visitButtonContent'>
+								<a href="https://github.com/thaiho101" target="_blank" class="visitBtn"><i class="fab fa-github"></i></a>
+								<a href="https://namho-uniform-voucher-demo.fortuneterm.com" target="_blank" class="visitBtn">View Live</a>
+							</div>
 						</div>
 						<p>
 				An internal workflow system I developed to replace manual voucher tracking and spreadsheet-based processes in warehouse operations.
@@ -297,8 +305,10 @@
 					<div class="projectText">
 						<div class="projectTopLine">
 							<h3>TimeLogs – Work Hour Tracker</h3>
-							<a href="https://github.com/thaiho101" target="_blank" class="visitBtn"><i class="fab fa-github"></i></a>
-							<a href="https://namho-timelogs.fortuneterm.com" target="_blank" class="visitBtn">View Live</a>
+							<div class='visitButtonContent'>
+								<a href="https://github.com/thaiho101" target="_blank" class="visitBtn"><i class="fab fa-github"></i></a>
+								<a href="https://namho-timelogs.fortuneterm.com" target="_blank" class="visitBtn">View Live</a>
+							</div>
 						</div>
 				<p>
 				A web-based time tracking system I built to address real issues with unreliable time-scanning systems in the workplace.
@@ -321,8 +331,10 @@
 					<div class="projectText">
 						<div class="projectTopLine">
 							<h3>UTA Slot Tracker</h3>
-							<a href="https://github.com/thaiho101" target="_blank" class="visitBtn"><i class="fab fa-github"></i></a>
-							<a href="https://namho-utaslottracker.fortuneterm.com" target="_blank" class="visitBtn">View Live</a>
+							<div class='visitButtonContent'>
+								<a href="https://github.com/thaiho101" target="_blank" class="visitBtn"><i class="fab fa-github"></i></a>
+								<a href="https://namho-utaslottracker.fortuneterm.com" target="_blank" class="visitBtn">View Live</a>
+							</div>
 						</div>
 				<p>
 				A front-end web application developed as part of a team project aimed at improving campus parking efficiency during peak hours.
