@@ -591,7 +591,7 @@
 		<div class="glassCard">
 			<div class="contactItem">
 				<i class="fas fa-envelope"></i>
-				<span style='padding: 0 10px;'>thaiho101@gmail.com</span>
+				<span><a class='contactAffect' href="mailto:thaiho101@gmail.com">thaiho101@gmail.com</a></span>
 			</div>
 
 			<div class="contactItem">
@@ -611,7 +611,18 @@
 	</div>
 </section>
 
+
+
 </main>
+<div id='contactPanel'>
+	<div class='topLeftVertical'></div>
+	<div class='contactVerticalList'>
+		<a class='contactAffect' href="mailto:thaiho101@gmail.com"><i class="fas fa-envelope iconVertical"></i></a>
+		<a class='contactAffect' href="https://github.com/thaiho101"  target='_blank'><i class="fab fa-github iconVertical"></i></a>
+		<a class='contactAffect' href="https://www.linkedin.com/in/nam-ho-41bb7291"  target='_blank'><i class="fab fa-linkedin iconVertical"></i></a>
+	</div>
+	<div class='bottomLeftVertical'></div>
+</div>
 
 <footer class="siteFooter">
 	<p>© <?= date('Y') ?> Nam Ho. All rights reserved.</p>
