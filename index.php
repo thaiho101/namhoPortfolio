@@ -62,7 +62,7 @@
         <span class="metricLabel">Faster order processing</span>
       </div>
       <div class="metricBox">
-        <span class="metricVal">9+</span>
+        <span class="metricVal">8+</span>
         <span class="metricLabel">Years Professional Experience</span>
       </div>
       <div class="metricBox">
@@ -70,8 +70,9 @@
         <span class="metricLabel">Live projects</span>
       </div>
       <div class="metricBox">
-        <span class="metricVal metricValSm">Cum Laude</span>
-        <span class="metricLabel">Academic honor</span>
+        <span class="metricVal">3.68</span>
+        <span class="metricLabel">GPA @ UTA</span>
+		<span class="metricLabel">Cum Laude</span>
       </div>
     </div>
 
@@ -149,7 +150,7 @@
         <h3>University of Texas at Arlington</h3>
 		<p class="schoolDate">Jan 2024 – Expected May 2026</p>
 		<div class='companyDuration'>
-        	<p class="award"><span style='text-shadow: 0 0 5px white;'>🎓</span> B.S. Computer Software Engineering</p>
+        	<p class="award"><span style='text-shadow: 0 0 5px white;'>🎓</span> B.S. Software Engineering | GPA: 3.68 / 4.00</p>
 			<p class='award'><span style='text-shadow: 0 0 10px yellow;'>🏅</span> Cum Laude</p>
 		</div>
       </div>
@@ -161,7 +162,8 @@
         <h3>Dallas College</h3>
 		<p class="schoolDate">Aug 2021 – Dec 2023 • Dallas, TX</p>
 		<div class='companyDuration'>
-        	<p class="award"><span style='text-shadow: 0 0 5px white;'>🎓</span> A.S. Computer Software Engineering</p>
+        	<p class="award"><span style='text-shadow: 0 0 5px white;'>🎓</span> A.S. Software Engineering | GPA: 3.95 / 4.00</p>
+			<!-- <p class='award'><span style='text-shadow: 0 0 10px yellow;'></span> GPA: 3.95 / 4.00</p> -->
 			<p class='award'><span style='text-shadow: 0 0 10px yellow;'>🏅</span> Phi Theta Kappa Honor Society</p>
 		</div>
       </div>
@@ -170,7 +172,7 @@
 	<div class="timelineItem eduTimeline">
 		<div class="timelineDot"></div>
 		<div class="glassCard school">
-			<h3>Open University</h3>
+			<h3>HCMC Open University</h3>
 			<p class="schoolDate">Dec 2012 – Sep 2016 •  Vietnam</p>
 			<div class='companyDuration'>
 				<p class="award"><span style='text-shadow: 0 0 5px white;'>🎓</span> B.S. International Business</p>
@@ -218,6 +220,36 @@
 							<span>Validation Engine</span>
 							<span>Audit Logging</span>
 							<span>CSV Export</span>
+						</div>
+					</div>
+				</div>
+
+
+				<div id='uniformVoucher' class="projectCard" data-preview="uniformsVoucherImageReview">
+					<div class="projectText">
+						<div class="projectTopLine">
+							<h3>Uniform Voucher Management System</h3>
+							<div class='visitButtonContent'>
+								<a href="https://github.com/thaiho101" target="_blank" class="visitBtn"><i class="fab fa-github"></i></a>
+								<a href="https://namho-uniform-voucher-demo.fortuneterm.com" target="_blank" class="visitBtn">View Live</a>
+							</div>
+						</div>
+							<p>
+							An internal workflow system 
+							<span class='highlight'>replacing manual voucher tracking in warehouse operations.</span>
+							</p>
+							<ul class='projectTextUl'>
+								<li>Centralized employee voucher data across multiple organizations</li>
+								<li>Dynamic filtering, CSV export, and data visualization dashboards</li>
+								<li>Reduced manual tracking errors and improved operational visibility</li>
+							</ul>
+						<div class="projectTags">
+							<span>Business System</span>
+							<span>Dashboard</span>
+							<span>Reporting</span>
+							<span>CSV Export</span>
+							<span>Data Visualization</span>
+							<span>Internal Tool</span>
 						</div>
 					</div>
 				</div>
@@ -275,36 +307,6 @@
 							<span>Real Usage</span>
 							<span>Authentication</span>
 							<span>Public web application</span>
-						</div>
-					</div>
-				</div>
-
-
-				<div id='uniformVoucher' class="projectCard" data-preview="uniformsVoucherImageReview">
-					<div class="projectText">
-						<div class="projectTopLine">
-							<h3>Uniform Voucher Management System</h3>
-							<div class='visitButtonContent'>
-								<a href="https://github.com/thaiho101" target="_blank" class="visitBtn"><i class="fab fa-github"></i></a>
-								<a href="https://namho-uniform-voucher-demo.fortuneterm.com" target="_blank" class="visitBtn">View Live</a>
-							</div>
-						</div>
-							<p>
-							An internal workflow system 
-							<span class='highlight'>replacing manual voucher tracking in warehouse operations.</span>
-							</p>
-							<ul class='projectTextUl'>
-								<li>Centralized employee voucher data across multiple organizations</li>
-								<li>Dynamic filtering, CSV export, and data visualization dashboards</li>
-								<li>Reduced manual tracking errors and improved operational visibility</li>
-							</ul>
-						<div class="projectTags">
-							<span>Business System</span>
-				<span>Dashboard</span>
-				<span>Reporting</span>
-				<span>CSV Export</span>
-				<span>Data Visualization</span>
-				<span>Internal Tool</span>
 						</div>
 					</div>
 				</div>
@@ -589,7 +591,7 @@
 		<div class="glassCard">
 			<div class="contactItem">
 				<i class="fas fa-envelope"></i>
-				<span style='padding: 0 10px;'>thaiho101@gmail.com</span>
+				<span><a class='contactAffect' href="mailto:thaiho101@gmail.com">thaiho101@gmail.com</a></span>
 			</div>
 
 			<div class="contactItem">
@@ -609,7 +611,18 @@
 	</div>
 </section>
 
+
+
 </main>
+<div id='contactPanel'>
+	<div class='topLeftVertical'></div>
+	<div class='contactVerticalList'>
+		<a class='contactAffect' href="mailto:thaiho101@gmail.com"><i class="fas fa-envelope iconVertical"></i></a>
+		<a class='contactAffect' href="https://github.com/thaiho101"  target='_blank'><i class="fab fa-github iconVertical"></i></a>
+		<a class='contactAffect' href="https://www.linkedin.com/in/nam-ho-41bb7291"  target='_blank'><i class="fab fa-linkedin iconVertical"></i></a>
+	</div>
+	<div class='bottomLeftVertical'></div>
+</div>
 
 <footer class="siteFooter">
 	<p>© <?= date('Y') ?> Nam Ho. All rights reserved.</p>

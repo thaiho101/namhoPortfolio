@@ -904,6 +904,87 @@ span:hover {
 	scroll-margin-top: 120px;
 }
 
+#hero {
+	scroll-margin-top: 100px;
+}
+
+#contactPanel {
+	position: fixed;
+	display: flex;
+	flex-direction: column;
+	left: 1.5%;
+	top: 20%;
+	height: 100vh;
+	z-index: 9999;
+}
+
+.topLeftVertical {
+	height: 30%;
+	background-color: rgba(255, 215, 0, 0.3);
+	width: 5%;
+	transform: translateY(-50px);
+	margin-left: 40%;
+	border-top-left-radius: 90%;
+	border-top-right-radius: 90%;
+	box-shadow: 0 -10px 5px rgba(255, 255, 0, 0.453);
+}
+
+.bottomLeftVertical {
+	height: 30%;
+	background: linear-gradient(rgba(255, 215, 0, 0.3), rgba(255, 215, 0, 0.3), rgba(255, 255, 255, 0.611));
+	width: 5%;
+	transform: translateY(50px);
+	margin-left: 40%;
+	border-top-left-radius: 90%;
+	border-top-right-radius: 90%;
+	box-shadow: 0 -10px 5px rgba(255, 255, 0, 0.453);
+}
+
+.contactVerticalList {
+	display: flex;
+	flex-direction: column;
+	gap: 20px;
+	transform: scale(140%);
+}
+
+.iconVertical {
+	background-image: url(photoReview/diamond2.png);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 180%;
+	background-position: right 30% top 10%;
+	opacity: 1;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	transition: all 0.5s ease;
+}
+
+.iconVertical:hover {
+	filter: drop-shadow(0 0 5px white);
+	transform: translateY(-4px);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 @media (max-width: 1050px) {
 	.heroSection,
 	.projectsLayout,
@@ -934,6 +1015,9 @@ span:hover {
 
 
 @media (max-width: 768px) {
+	#contactPanel {
+		display: none;
+	}
 
 	.status {
 		display: flex;
