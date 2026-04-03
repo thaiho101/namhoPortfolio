@@ -904,6 +904,10 @@ span:hover {
 	scroll-margin-top: 120px;
 }
 
+#hero {
+	scroll-margin-top: 100px;
+}
+
 #contactPanel {
 	position: fixed;
 	display: flex;
