@@ -63,7 +63,7 @@
       </div>
       <div class="metricBox">
         <span class="metricVal">8+</span>
-        <span class="metricLabel">Years Professional Experience</span>
+        <span class="metricLabel">YEARS OPERATIONS EXPERIENCE (2+ YEARS DEVELOPING REAL-WORLD SYSTEMS)</span>
       </div>
       <div class="metricBox">
         <span class="metricVal">6</span>
@@ -568,7 +568,7 @@
 
 		<div class="skillCard">
 			<h3><i class="fas fa-screwdriver-wrench"></i> Tools & Systems</h3>
-			<p>Git, GitHub, Linux, Raspberry Pi, HeidiSQL, FileZilla</p>
+			<p>Git, GitHub, Linux, Raspberry Pi, HeidiSQL, FileZilla, <br> <span class='highlight'>Infrastructure:</span> Linux server deployment (self-hosted)</p>
 		</div>
 
 	</div>
