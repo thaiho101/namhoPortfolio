@@ -63,7 +63,7 @@
       </div>
       <div class="metricBox">
         <span class="metricVal">8+</span>
-        <span class="metricLabel">Years Professional Experience</span>
+        <span class="metricLabel">YEARS OPERATIONS EXPERIENCE (2+ YEARS DEVELOPING REAL-WORLD SYSTEMS)</span>
       </div>
       <div class="metricBox">
         <span class="metricVal">6</span>
