@@ -46,12 +46,12 @@
 				Available for full-time Software Engineering roles
 		</p>
 	</div>
-    <p class="heroTag">Full-Stack Web Developer • Problem Solver • Real-World Systems</p>
+    <p class="heroTag">Full-Stack Engineer • Problem Solver • Real-World Systems</p>
     <h1>Nam Ho</h1>
     <h2>Software Engineering</h2>
 
     <p class="heroIntro">
-      Full-Stack Developer who builds systems that solve real operational problems.
+      Building systems that solve real operational problems.
     </p>
 
 	<br>
@@ -79,7 +79,7 @@
     <div class="heroButtons">
       <a href="#projects" class="primaryBtn">View Projects</a>
       <a href="#contact" class="secondaryBtn">Contact Me</a>
-	  <a href="" class="secondaryBtn">RESUMÉ (SWE)</a>
+	  <a href="/file/Resume_Nam_Ho_SWE.pdf" download='Resume_Nam_Ho_SWE' class="secondaryBtn">RESUMÉ (SWE)</a>
     </div>
   </div>
 
