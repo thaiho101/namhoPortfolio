@@ -79,7 +79,7 @@
     <div class="heroButtons">
       <a href="#projects" class="primaryBtn">View Projects</a>
       <a href="#contact" class="secondaryBtn">Contact Me</a>
-	  <a href="" class="secondaryBtn">RESUMÉ (SWE)</a>
+	  <a href="/file/NamHo_Resume.pdf" download='Resume_Nam_Ho_SWE' class="secondaryBtn">RESUMÉ (SWE)</a>
     </div>
   </div>
 
