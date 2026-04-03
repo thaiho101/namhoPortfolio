@@ -568,7 +568,7 @@
 
 		<div class="skillCard">
 			<h3><i class="fas fa-screwdriver-wrench"></i> Tools & Systems</h3>
-			<p>Git, GitHub, Linux, Raspberry Pi, HeidiSQL, FileZilla</p>
+			<p>Git, GitHub, Linux, Raspberry Pi, HeidiSQL, FileZilla, <br> <span class='highlight'>Infrastructure:</span> Linux server deployment (self-hosted)</p>
 		</div>
 
 	</div>
