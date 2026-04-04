@@ -106,13 +106,15 @@
 
 	<div class="aboutGrid">
 		<div class="glassCard">
-			<li>Software Engineering student with 8+ years of operations experience (6+ in warehouse), focused on building real-world systems.</li>
+			<ul class='projectTextUl'>
+				<li>Software Engineering student with 8+ years of operations experience (6+ in warehouse), focused on building real-world systems.</li>
 
-			<li>I develop full-stack web applications using PHP, MySQL, and JavaScript to replace manual workflows and improve operational efficiency.</li>
+				<li>I develop full-stack web applications using PHP, MySQL, and JavaScript to replace manual workflows and improve operational efficiency.</li>
 
-			<li>Reduced processing time by 7x and improved team productivity by 20% through automation.</li>
+				<li>Reduced processing time by 7x and improved team productivity by 20% through automation.</li>
 
-			<li>B.S. Software Engineering, UT Arlington (Expected May 2026).</li>
+				<li>B.S. Software Engineering, UT Arlington (Expected May 2026).</li>
+			</ul>
 		</div>
 
 		<div class="glassCard">
@@ -143,7 +145,7 @@
         <h3>University of Texas at Arlington</h3>
 		<p class="schoolDate">Jan 2024 – Expected May 2026</p>
 		<div class='companyDuration'>
-        	<p class="award"><span style='text-shadow: 0 0 5px white;'>🎓</span> B.S. Software Engineering | GPA: 3.68</p>
+        	<p class="award"><span style='text-shadow: 0 0 5px white;'>🎓</span> B.S. Software Engineering | GPA: <span class='highlight'>3.68</span></p>
 			<p class='award'><span style='text-shadow: 0 0 10px yellow;'>🏅</span> Cum Laude</p>
 		</div>
       </div>
@@ -155,7 +157,7 @@
         <h3>Dallas College</h3>
 		<p class="schoolDate">Aug 2021 – Dec 2023 • Dallas, TX</p>
 		<div class='companyDuration'>
-        	<p class="award"><span style='text-shadow: 0 0 5px white;'>🎓</span> A.S. Software Engineering | GPA: 3.95</p>
+        	<p class="award"><span style='text-shadow: 0 0 5px white;'>🎓</span> A.S. Software Engineering | GPA: <span class='highlight'>3.95</span></p>
 			<p class='award'><span style='text-shadow: 0 0 10px yellow;'>🏅</span> Phi Theta Kappa Honor Society</p>
 		</div>
       </div>
@@ -548,22 +550,32 @@
 
 		<div class="skillCard">
 			<h3><i class="fas fa-code"></i> Languages</h3>
-			<p>Java, C++, C, PHP, JavaScript, Python, SQL</p>
+			<p> PHP, JavaScript, Java, C++, C, Python</p>
 		</div>
 
 		<div class="skillCard">
 			<h3><i class="fas fa-laptop-code"></i> Frontend</h3>
-			<p>HTML, CSS, JavaScript, React, Responsive Design</p>
+			<p>HTML, CSS, React, Responsive Design</p>
 		</div>
 
 		<div class="skillCard">
-			<h3><i class="fas fa-database"></i> Backend / Data</h3>
-			<p>MySQL, MongoDB, relational database design, API logic, Python</p>
+			<h3><i class="fas fa-database"></i> Backend</h3>
+			<p>PHP (server-side logic, form handling, validation)</p>
+		</div>
+
+		<div class="skillCard">
+			<h3><i class="fas fa-database"></i> Database</h3>
+			<p>MySQL</p>
 		</div>
 
 		<div class="skillCard">
 			<h3><i class="fas fa-screwdriver-wrench"></i> Tools & Systems</h3>
-			<p>Git, GitHub, Linux, Raspberry Pi, HeidiSQL, FileZilla, <br> <span class='highlight'>Infrastructure:</span> Linux server deployment (self-hosted)</p>
+			<p>Git, GitHub, Linux</p>
+		</div>
+
+		<div class="skillCard">
+			<h3><i class="fas fa-database"></i> Infrastructure</h3>
+			<p>Linux server deployment (self-hosted)</p>
 		</div>
 
 	</div>
