@@ -632,7 +632,7 @@
 </div>
 
 <footer class="siteFooter">
-	<p>© <?= date('Y') ?> Nam Ho. All rights reserved.</p>
+	<p>© <?= date('Y') ?> Nam Ho • Software Engineer</p>
 </footer>
 
 
