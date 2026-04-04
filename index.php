@@ -456,9 +456,9 @@
 						<p class="roleDate">Jun 2021 – Mar 2025 (<i class="fa-regular fa-calendar"></i> 3 years 10 months)</p>
 
 						<ul class="expList">
-							<li>Built internal web applications using <span class='highlight'>PHP, MySQL, JavaScript</span> to replace manual workflows (<a href='#uniformVoucher' class='projectNavigation'>Uniform Voucher Management System</a>).</li>
+							<li>Built internal web applications using <span class='highlight'>PHP, MySQL, JavaScript</span> to replace manual workflows (<a href='#uniformVoucher' class='projectNavigation highlight'>Uniform Voucher Management System</a>).</li>
 
-							<li>Developed <a href='#receiveFlow' class='projectNavigation'>ReceiveFlow system</a> to digitize warehouse order processing and later extend it into an external web platform.</li>
+							<li>Developed <a href='#receiveFlow' class='projectNavigation highlight'>ReceiveFlow system</a> to digitize warehouse order processing and later extend it into an external web platform.</li>
 
 							<li><span class='highlight'>Reduced order processing time by 7x (1 week → 1 day)</span> through system automation.</li>
 
