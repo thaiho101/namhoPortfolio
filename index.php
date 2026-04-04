@@ -91,7 +91,7 @@
         <li>Production-ready web applications</li>
         <li>Workflow & business systems</li>
         <li>React – BugHouse (Capstone)</li>
-        <li>Python – DSA practice</li>
+        <li>Python – Data Structures & Algorithms (LeetCode)</li>
       </ul>
     </div>
   </div>
@@ -106,20 +106,15 @@
 
 	<div class="aboutGrid">
 		<div class="glassCard">
-			<p style='padding-bottom: 10px;'>
-				- Software Engineering student at the University of Texas at Arlington (Expected May 2026),
-				with 6+ years of experience in warehouse operations and proven experience building real-world systems with measurable business impact.
-			</p>
+			<ul class='projectTextUl'>
+				<li>Software Engineering student with 8+ years of operations experience (6+ in warehouse), focused on building real-world systems.</li>
 
-			<p style='padding-bottom: 10px;'>
-				- Designed and developed internal web applications using PHP, MySQL, and JavaScript 
-				to replace manual workflows and streamline operations.
-			</p>
+				<li>I develop full-stack web applications using PHP, MySQL, and JavaScript to replace manual workflows and improve operational efficiency.</li>
 
-			<p>
-				- Focused on building tools that non-technical staff can use confidently,
-				with clean interfaces and reliable data tracking.
-			</p>
+				<li>Reduced processing time by 7x and improved team productivity by 20% through automation.</li>
+
+				<li>B.S. Software Engineering, UT Arlington (Expected May 2026).</li>
+			</ul>
 		</div>
 
 		<div class="glassCard">
@@ -150,7 +145,7 @@
         <h3>University of Texas at Arlington</h3>
 		<p class="schoolDate">Jan 2024 – Expected May 2026</p>
 		<div class='companyDuration'>
-        	<p class="award"><span style='text-shadow: 0 0 5px white;'>🎓</span> B.S. Software Engineering | GPA: 3.68 / 4.00</p>
+        	<p class="award"><span style='text-shadow: 0 0 5px white;'>🎓</span> B.S. Software Engineering | GPA: <span class='highlight'>3.68</span></p>
 			<p class='award'><span style='text-shadow: 0 0 10px yellow;'>🏅</span> Cum Laude</p>
 		</div>
       </div>
@@ -162,8 +157,7 @@
         <h3>Dallas College</h3>
 		<p class="schoolDate">Aug 2021 – Dec 2023 • Dallas, TX</p>
 		<div class='companyDuration'>
-        	<p class="award"><span style='text-shadow: 0 0 5px white;'>🎓</span> A.S. Software Engineering | GPA: 3.95 / 4.00</p>
-			<!-- <p class='award'><span style='text-shadow: 0 0 10px yellow;'></span> GPA: 3.95 / 4.00</p> -->
+        	<p class="award"><span style='text-shadow: 0 0 5px white;'>🎓</span> A.S. Software Engineering | GPA: <span class='highlight'>3.95</span></p>
 			<p class='award'><span style='text-shadow: 0 0 10px yellow;'>🏅</span> Phi Theta Kappa Honor Society</p>
 		</div>
       </div>
@@ -175,7 +169,7 @@
 			<h3>HCMC Open University</h3>
 			<p class="schoolDate">Dec 2012 – Sep 2016 •  Vietnam</p>
 			<div class='companyDuration'>
-				<p class="award"><span style='text-shadow: 0 0 5px white;'>🎓</span> B.S. International Business</p>
+				<p class="award"><span style='text-shadow: 0 0 5px white;'>🎓</span> B.B.A. International Business</p>
 			</div>
 		</div>
 	</div>
@@ -207,11 +201,13 @@
 							</div>
 						</div>
 							<p>
-								A warehouse order receiving workflow system I designed to solve 
-								real challenges in the uniform supply industry. It replaces manual 
-								sorting and spreadsheet tracking with order-based processing, 
-								real-time validation, and audit logging. 
-								<span class='highlight'>Reduced order preparation time by 7x (1 week → 1 day).</span>
+								A warehouse receiving workflow system replacing manual sorting and spreadsheet tracking.<br>
+
+								<ul class='projectTextUl'>
+								<li>Reduced order preparation time by <span class='highlight'>7x (1 week → 1 day)</span></li>  
+								<li>Implemented <span class='highlight'>real-time validation</span> and audit logging for order processing</li>  
+								<li>Built for real-world warehouse operations in the uniform supply industry</li> 
+								</ul>
 							</p>
 						<div class="projectTags">
 							<span>Warehouse Operations</span>
@@ -265,12 +261,15 @@
 							</div>
 						</div>
 							<p>
-							A full-stack web application for studying the U.S. citizenship test, 
-							featuring multilingual support, interactive quizzes, and text-to-speech. 
-							<span class='highlight'>Successfully used for personal and family preparation — 
-							helping family members pass the U.S. citizenship test.</span> 
-							Built as a free, <span class='highlight'>ad-free alternative</span> to existing mobile apps — now available as a public web application.
+								A full-stack web platform for studying the U.S. citizenship test with multilingual support and interactive quizzes.
 							</p>
+
+							<ul class='projectTextUl'>
+								<li>Helped family members pass the U.S. citizenship test using real exam-style practice</li>
+								<li>Implemented <span class='highlight'>multilingual translation system</span> and <span class='highlight'>text-to-speech</span> for accessibility</li>  
+								<li>Built a <span class='highlight'>free, ad-free public web app</span>, improving usability compared to existing solutions</li>
+							</ul>
+
 						<div class="projectTags">
 				<span>Education Platform</span>
 				<span>Multilingual</span>
@@ -292,13 +291,14 @@
 							</div>
 						</div>
 							<p>
-								A full-stack budgeting app I built to track spending and prevent overspending.
-								<span class='highlight'>actively used personally to manage and control monthly finances.</span>
+								A full-stack budgeting app for tracking spending and preventing overspending.
 							</p>
-							<p>
-								Users can set budgets, log transactions, and visualize spending patterns 
-								through interactive dashboards.
-							</p>
+
+							<ul class='projectTextUl'>
+								<li>Used daily to manage personal finances and monitor monthly spending</li>
+								<li>Implemented <span class='highlight'>budget tracking</span>, transaction logging, and <span class='highlight'>interactive dashboards</span>  </li>
+								<li>Enabled data-driven insights into spending patterns through visualization features</li>
+							</ul>
 						<div class="projectTags">
 							<span>Budget Tracking</span>
 							<span>Data Visualization</span>
@@ -321,11 +321,14 @@
 								<a href="https://namho-timelogs.fortuneterm.com" target="_blank" class="visitBtn">View Live</a>
 							</div>
 						</div>
-				<p>
-					A time tracking system built as a backup for unreliable workplace 
-					scanners. Users can log clock-in/out times, auto-calculate total hours, 
-					and verify records against official systems.
-				</p>
+							<p>
+								A time tracking system built as a backup for unreliable workplace scanners.
+							</p>
+							<ul class='projectTextUl'>
+								<li>Logged clock-in/out times and <span class='highlight'>auto-calculated total work hours</span></li>
+								<li>Enabled verification of employee records against official systems  </li>
+								<li>Reduced risk of missing or inaccurate time records with a <span class='highlight'>reliable fallback system</span></li>
+							</ul>
 						<div class="projectTags">
 				<span>Time Tracking</span>
 				<span>Backup System</span>
@@ -455,23 +458,17 @@
 						<p class="roleDate">Jun 2021 – Mar 2025 (<i class="fa-regular fa-calendar"></i> 3 years 10 months)</p>
 
 						<ul class="expList">
-							<li>Designed and developed an <span class='highlight'>internal web application</span> <a href='#uniformVoucher' class='projectNavigation'>(Uniform Voucher Management System)</a> using PHP, MySQL, JavaScript, HTML, CSS to replace manual workflows.</li>
+							<li>Built internal web applications using <span class='highlight'>PHP, MySQL, JavaScript</span> to replace manual workflows (<a href='#uniformVoucher' class='projectNavigation highlight'>Uniform Voucher Management System</a>).</li>
 
-							<li>Built and evolved a workflow system <a href='#receiveFlow' class='projectNavigation'>(ReceiveFlow)</a> to digitize order processing, later extending it into an external web platform.</li>
+							<li>Developed <a href='#receiveFlow' class='projectNavigation highlight'>ReceiveFlow system</a> to digitize warehouse order processing and later extend it into an external web platform.</li>
 
-							<li><span class='highlight'>Reduced order processing time by 7x (1 week → 1 day) through system automation.</span></li>
+							<li><span class='highlight'>Reduced order processing time by 7x (1 week → 1 day)</span> through system automation.</li>
 
-							<li>Implemented validation logic and audit tracking to improve data accuracy and reliability.</li>
+							<li>Built <span class='highlight'>RESTful APIs</span> for validation, data processing, and audit logging.</li>
 
-							<li>Developed dashboards and UI tools for non-technical staff.</li>
+							<li>Developed dashboard interfaces for non-technical staff, improving usability and operational visibility.</li>
 
-							<li>Led a team of <span class='highlight'>9+ employees</span>, improving productivity by <span class='highlight'>20%</span>.</li>
-									
-							<li><span class='highlight'>Expanded role to manage both warehouse and newly launched retail operations.</span></li>
-
-							<li>Recognized with a 5-Year Service Award for long-term contribution and reliability (June 2024)</li>
-							
-							<li>Transitioned to full-time study in 2025 to complete degree (Expected May 2026).</li>
+							<li>Led <span class='highlight'>9+ employees</span>, improving team productivity by <span class='highlight'>20%</span>.</li>
 						</ul>
 					</div>
 
@@ -553,22 +550,32 @@
 
 		<div class="skillCard">
 			<h3><i class="fas fa-code"></i> Languages</h3>
-			<p>Java, C++, C, PHP, JavaScript, Python, SQL</p>
+			<p> PHP, JavaScript, Java, C++, C, Python</p>
 		</div>
 
 		<div class="skillCard">
 			<h3><i class="fas fa-laptop-code"></i> Frontend</h3>
-			<p>HTML, CSS, JavaScript, React, Responsive Design</p>
+			<p>HTML, CSS, React, Responsive Design</p>
 		</div>
 
 		<div class="skillCard">
-			<h3><i class="fas fa-database"></i> Backend / Data</h3>
-			<p>MySQL, MongoDB, relational database design, API logic, Python</p>
+			<h3><i class="fas fa-database"></i> Backend</h3>
+			<p>PHP (server-side logic, form handling, validation)</p>
+		</div>
+
+		<div class="skillCard">
+			<h3><i class="fas fa-database"></i> Database</h3>
+			<p>MySQL</p>
 		</div>
 
 		<div class="skillCard">
 			<h3><i class="fas fa-screwdriver-wrench"></i> Tools & Systems</h3>
-			<p>Git, GitHub, Linux, Raspberry Pi, HeidiSQL, FileZilla, <br> <span class='highlight'>Infrastructure:</span> Linux server deployment (self-hosted)</p>
+			<p>Git, GitHub, Linux</p>
+		</div>
+
+		<div class="skillCard">
+			<h3><i class="fas fa-database"></i> Infrastructure</h3>
+			<p>Linux server deployment (self-hosted)</p>
 		</div>
 
 	</div>
