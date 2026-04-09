@@ -66,7 +66,7 @@
         <span class="metricLabel">YEARS OPERATIONS EXPERIENCE (2+ YEARS DEVELOPING REAL-WORLD SYSTEMS)</span>
       </div>
       <div class="metricBox">
-        <span class="metricVal">6</span>
+        <span class="metricVal">7</span>
         <span class="metricLabel">Live projects</span>
       </div>
       <div class="metricBox">
