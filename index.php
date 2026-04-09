@@ -373,7 +373,7 @@
 							<h3>Beach Theme Toggle</h3>
 							<div class='visitButtonContent'>
 								<a href="https://github.com/thaiho101/beachThemeToggle" target="_blank" class="visitBtn"><i class="fab fa-github"></i></a>
-								<a href="#" target="_blank" class="visitBtn">View Live</a>
+								<a href="https://namho-beachthemetoggle.fortuneterm.com" target="_blank" class="visitBtn">View Live</a>
 							</div>
 						</div>
 
