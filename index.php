@@ -349,17 +349,49 @@
 								<a href="https://namho-utaslottracker.fortuneterm.com" target="_blank" class="visitBtn">View Live</a>
 							</div>
 						</div>
-				<p>
-				A front-end web application developed as part of a team project aimed at improving campus parking efficiency during peak hours.
+							<p>
+								A team-based front-end application designed to improve campus parking visibility and reduce search time.
+							</p>
 
-				The system displays parking availability and capacity across multiple locations using a visual, map-based interface to help users quickly find available spaces.
-
-				I was responsible for developing the interactive front-end using JavaScript and HTML, focusing on usability and real-time visual feedback.
-				</p>
+							<ul class="projectTextUl">
+								<li>Developed <span class="highlight">interactive front-end UI</span> using JavaScript and HTML</li>
+								<li>Built <span class="highlight">map-based data visualization</span> to display parking availability</li>
+								<li>Focused on <span class="highlight">real-time feedback</span> and usability for better user experience</li>
+							</ul>
 						<div class="projectTags">
-				<span>Frontend</span>
-				<span>JavaScript</span>
-				<span>Data Visualization</span>
+							<span>Frontend</span>
+							<span>JavaScript</span>
+							<span>Data Visualization</span>
+						</div>
+					</div>
+				</div>
+
+
+				<div class="projectCard" data-preview="beachThemeToggleImageReview">
+					<div class="projectText">
+						<div class="projectTopLine">
+							<h3>Beach Theme Toggle</h3>
+							<div class='visitButtonContent'>
+								<a href="https://github.com/thaiho101/beachThemeToggle" target="_blank" class="visitBtn"><i class="fab fa-github"></i></a>
+								<a href="#" target="_blank" class="visitBtn">View Live</a>
+							</div>
+						</div>
+
+						<p>
+						A creative front-end project exploring theme switching, animation, and immersive user experience.
+						</p>
+
+						<ul class="projectTextUl">
+							<li>Built an <span class="highlight">interactive day/night toggle</span> with smooth UI transitions</li>
+							<li>Integrated <span class="highlight">audio effects</span> (ocean waves & ukulele) based on theme state</li>
+							<li>Designed animated visuals using <span class="highlight">pure HTML, CSS, and JavaScript</span></li>
+						</ul>
+
+						<div class="projectTags">
+							<span>Frontend</span>
+							<span>JavaScript</span>
+							<span>Animation</span>
+							<span>Creative UI</span>
 						</div>
 					</div>
 				</div>
@@ -379,6 +411,7 @@
 				<div id="uniformsVoucherImageReview" class="previewBox fitFrame"></div>
 				<div id="timeLogsImageReview" class="previewBox fitFrame"></div>
 				<div id="utaSlotTrackerImageReview" class="previewBox fitFrame"></div>
+				<div id="beachThemeToggleImageReview" class="previewBox fitFrame"></div>
 
 			</div>
 		</div>
