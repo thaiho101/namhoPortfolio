@@ -550,7 +550,7 @@
 
 		<div class="skillCard">
 			<h3><i class="fas fa-code"></i> Languages</h3>
-			<p> PHP, JavaScript, Java, C++, C, Python</p>
+			<p> PHP, JavaScript, Python</p>
 		</div>
 
 		<div class="skillCard">
