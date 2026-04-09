@@ -196,7 +196,7 @@
 						<div class="projectTopLine">
 							<h3>ReceiveFlow – Warehouse Receiving System</h3>
 							<div class='visitButtonContent'>
-								<a href="https://github.com/thaiho101" target="_blank" class="visitBtn"><i class="fab fa-github"></i></a>
+								<a href="https://github.com/thaiho101/receiveflow" target="_blank" class="visitBtn"><i class="fab fa-github"></i></a>
 								<a href="https://namho-receiveflow.fortuneterm.com" target="_blank" class="visitBtn">View Live</a>
 							</div>
 						</div>
@@ -226,7 +226,7 @@
 						<div class="projectTopLine">
 							<h3>Uniform Voucher Management System</h3>
 							<div class='visitButtonContent'>
-								<a href="https://github.com/thaiho101" target="_blank" class="visitBtn"><i class="fab fa-github"></i></a>
+								<a href="https://github.com/thaiho101/metrouniforms" target="_blank" class="visitBtn"><i class="fab fa-github"></i></a>
 								<a href="https://namho-uniform-voucher-demo.fortuneterm.com" target="_blank" class="visitBtn">View Live</a>
 							</div>
 						</div>
@@ -256,7 +256,7 @@
 						<div class="projectTopLine">
 							<h3>PassUSCIS – Citizenship Test Platform</h3>
 							<div class='visitButtonContent'>
-								<a href="https://github.com/thaiho101" target="_blank" class="visitBtn"><i class="fab fa-github"></i></a>
+								<a href="https://github.com/thaiho101/naturalizationTest" target="_blank" class="visitBtn"><i class="fab fa-github"></i></a>
 								<a href="https://passuscis.com" target="_blank" class="visitBtn">View Live</a>
 							</div>
 						</div>
@@ -286,7 +286,7 @@
 						<div class="projectTopLine">
 							<h3>Market Cost – Budget Tracker</h3>
 							<div class='visitButtonContent'>
-								<a href="https://github.com/thaiho101" target="_blank" class="visitBtn"><i class="fab fa-github"></i></a>
+								<a href="https://github.com/thaiho101/FortuneTerm" target="_blank" class="visitBtn"><i class="fab fa-github"></i></a>
 								<a href="https://marketcost.fortuneterm.com" target="_blank" class="visitBtn">View Live</a>
 							</div>
 						</div>
@@ -317,7 +317,7 @@
 						<div class="projectTopLine">
 							<h3>TimeLogs – Work Hour Tracker</h3>
 							<div class='visitButtonContent'>
-								<a href="https://github.com/thaiho101" target="_blank" class="visitBtn"><i class="fab fa-github"></i></a>
+								<a href="https://github.com/thaiho101/timeLogs" target="_blank" class="visitBtn"><i class="fab fa-github"></i></a>
 								<a href="https://namho-timelogs.fortuneterm.com" target="_blank" class="visitBtn">View Live</a>
 							</div>
 						</div>
@@ -345,7 +345,7 @@
 						<div class="projectTopLine">
 							<h3>UTA Slot Tracker</h3>
 							<div class='visitButtonContent'>
-								<a href="https://github.com/thaiho101" target="_blank" class="visitBtn"><i class="fab fa-github"></i></a>
+								<a href="https://github.com/thaiho101/utaSlotTracker" target="_blank" class="visitBtn"><i class="fab fa-github"></i></a>
 								<a href="https://namho-utaslottracker.fortuneterm.com" target="_blank" class="visitBtn">View Live</a>
 							</div>
 						</div>
@@ -420,7 +420,7 @@
 			</li>
 
 		</ul>
-		<a href="https://github.com/thaiho101" target="_blank" class="visitBtn"><i class="fab fa-github"></i></a>
+		<a href="https://github.com/UTAHiveMind/UTABughouse" target="_blank" class="visitBtn"><i class="fab fa-github"></i></a>
 
 		<a href="https://websites.uta.edu/cseseniordesign/2025/08/11/bughouse-2/" target="_blank" class="visitBtn">
 			View Details
