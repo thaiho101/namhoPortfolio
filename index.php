@@ -106,27 +106,65 @@
 
 	<div class="aboutGrid">
 		<div class="glassCard">
-			<ul class='projectTextUl'>
-				<li>Software Engineering student with 8+ years of operations experience (6+ in warehouse), focused on building real-world systems.</li>
+			<p>
+			Software Engineering student with
+			<span class="highlight">8+ years of operations experience, including 6+ years in warehouse environments</span>.
+			</p>
 
-				<li>I develop full-stack web applications using PHP, MySQL, and JavaScript to replace manual workflows and improve operational efficiency.</li>
+			<p>
+			I build full-stack web applications using PHP, MySQL, and JavaScript
+			to replace manual workflows and improve operational efficiency.
+			</p>
 
-				<li>Reduced processing time by 7x and improved team productivity by 20% through automation.</li>
+			<p>
+			In real business environments, my systems have
+			<span class="highlight">reduced order processing time by 7x (from one week to one day)</span>
+			by automating validation, tracking, and routing processes.
+			</p>
 
-				<li>B.S. Software Engineering, UT Arlington (Expected May 2026).</li>
-			</ul>
+			<p>
+			I have also developed internal platforms, including a
+			<span class="highlight">voucher management system</span>
+			that handles validation, tracking, and reporting for employee purchases across multiple organizations.
+			</p>
+
+			<p>
+			Beyond software, I have improved team productivity through workflow optimization and process restructuring in warehouse operations.
+			</p>
+
+			<p>
+			My focus is on
+			<span class="highlight">backend systems, database design, and workflow automation</span>
+			— building tools that are practical, scalable, and usable by non-technical teams.
+			</p>
+
+			<p>
+			Currently pursuing a B.S. in Software Engineering at UT Arlington (Graduating May 2026), and seeking full-time Software Engineering opportunities.
+			</p>
 		</div>
 
 		<div class="glassCard">
 			<p class="infoTitle">Highlights</p>
-			<ul class="infoList">
-				<li>Full-Stack Development (PHP, MySQL, JavaScript)</li>
-				<li>Built real-world systems with measurable business impact (uniform supply industry)</li>
-				<li>Reduced order processing time by 7x (1 week → 1 day)</li>
-				<li>Improved workflow efficiency and data accuracy</li>
-				<li>Experience working in real operational environments</li>
-				<li>Seeking full-time Software Engineering roles</li>
-			</ul>
+				<ul>
+				<li>
+					Built <span class="highlight">real-world systems</span> used daily in warehouse operations
+				</li>
+				<li>
+					Achieved <span class="highlight">7x faster order processing</span> through workflow automation
+				</li>
+				<li>
+					Developed <span class="highlight">data-driven internal platforms</span> with validation, tracking, and reporting
+				</li>
+				<li>
+					Strong focus on <span class="highlight">backend systems and database design</span>
+				</li>
+				<li>
+					Experience working in <span class="highlight">non-technical, real business environments</span>
+				</li>
+				<li>
+					<span class="highlight">Graduating May 2026</span> • Seeking full-time Software Engineering roles
+				</li>
+				</ul>
 		</div>
 	</div>
 </section>
