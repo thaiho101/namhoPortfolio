@@ -971,6 +971,15 @@ span:hover {
 	transform: translateY(-4px);
 }
 
+.about-text p {
+  margin-bottom: 16px;
+  line-height: 1.7;
+}
+
+.about-text p:last-child {
+  margin-bottom: 0;
+}
+
 
 
 
