@@ -145,25 +145,25 @@
 
 		<div class="glassCard">
 			<p class="infoTitle">Highlights</p>
-				<ul>
-				<li>
-					Built <span class="highlight">real-world systems</span> used daily in warehouse operations
-				</li>
-				<li>
-					Achieved <span class="highlight">7x faster order processing</span> through workflow automation
-				</li>
-				<li>
-					Developed <span class="highlight">data-driven internal platforms</span> with validation, tracking, and reporting
-				</li>
-				<li>
-					Strong focus on <span class="highlight">backend systems and database design</span>
-				</li>
-				<li>
-					Experience working in <span class="highlight">non-technical, real business environments</span>
-				</li>
-				<li>
-					<span class="highlight">Graduating May 2026</span> • Seeking full-time Software Engineering roles
-				</li>
+				<ul class='projectTextUl highligh-text'>
+					<li class='highligh-text'>
+						Built <span class="highlight">real-world systems</span> used daily in warehouse operations
+					</li>
+					<li class='highligh-text'>
+						Achieved <span class="highlight">7x faster order processing</span> through workflow automation
+					</li>
+					<li class='highligh-text'>
+						Developed <span class="highlight">data-driven internal platforms</span> with validation, tracking, and reporting
+					</li>
+					<li class='highligh-text'>
+						Strong focus on <span class="highlight">backend systems and database design</span>
+					</li>
+					<li class='highligh-text'>
+						Experience working in <span class="highlight">non-technical, real business environments</span>
+					</li>
+					<li class='highligh-text'>
+						<span class="highlight">Graduating May 2026</span> • Seeking full-time Software Engineering roles
+					</li>
 				</ul>
 		</div>
 	</div>
