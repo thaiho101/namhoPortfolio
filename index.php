@@ -105,7 +105,7 @@
 	</div>
 
 	<div class="aboutGrid">
-		<div class="glassCard">
+		<div class="glassCard about-text">
 			<p>
 			Software Engineering student with
 			<span class="highlight">8+ years of operations experience, including 6+ years in warehouse environments</span>.
