@@ -248,6 +248,12 @@
 								<li>Deployed a self-hosted production-style system on Raspberry Pi and exposed it securely via Cloudflare Tunnel</li>
 								</ul>
 							</p>
+							<p class="projectSubTitle">System Design</p>
+								<ul class="projectTextUl">
+									<li>Designed <span class='highlight'>RESTful APIs</span> to handle order validation, routing, and processing logic</li>
+									<li>Structured <span class='highlight'>MySQL database</span> for normalized tracking of orders, categories, and status updates</li>
+									<li>Implemented <span class='highlight'>real-time validation engine</span> to classify embroidery requirements and reduce manual errors</li>
+								</ul>
 						<div class="projectTags">
 							<span>Warehouse Operations</span>
 							<span>Real-time Validation</span>
