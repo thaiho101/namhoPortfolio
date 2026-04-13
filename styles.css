@@ -985,6 +985,11 @@ span:hover {
   line-height: 1.7;
 }
 
+.projectTextUl li {
+	  margin-bottom: 10px;
+  line-height: 1;
+}
+
 
 
 

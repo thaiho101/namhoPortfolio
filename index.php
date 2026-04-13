@@ -245,6 +245,7 @@
 								<li>Reduced order preparation time by <span class='highlight'>7x (1 week → 1 day)</span></li>  
 								<li>Implemented <span class='highlight'>real-time validation</span> and audit logging for order processing</li>  
 								<li>Built for real-world warehouse operations in the uniform supply industry</li> 
+								<li>Deployed a self-hosted production-style system on Raspberry Pi and exposed it securely via Cloudflare Tunnel</li>
 								</ul>
 							</p>
 						<div class="projectTags">
@@ -254,6 +255,8 @@
 							<span>Validation Engine</span>
 							<span>Audit Logging</span>
 							<span>CSV Export</span>
+							<span>Self-hosted</span>
+    						<span>Remote Access</span>
 						</div>
 					</div>
 				</div>
@@ -646,7 +649,7 @@
 
 		<div class="skillCard">
 			<h3><i class="fas fa-database"></i> Infrastructure</h3>
-			<p>Linux server deployment (self-hosted)</p>
+			<p>Self-hosted deployment (Raspberry Pi, Cloudflare Tunnel)</p>
 		</div>
 
 	</div>
