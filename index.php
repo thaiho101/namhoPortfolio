@@ -534,7 +534,7 @@
 					</div>
 
 					<div class="roleBlock role1">
-						<h4>Warehouse Manager (Warehouse & Retail Operations – Dual Role)</h4>
+						<h4>Warehouse Manager (Software Development & Automation)</h4>
 						<p class="roleDate">Jun 2021 – Mar 2025 (<i class="fa-regular fa-calendar"></i> 3 years 10 months)</p>
 
 						<ul class="expList">
