@@ -107,39 +107,46 @@
 	<div class="aboutGrid">
 		<div class="glassCard about-text">
 			<p>
-			Software Engineering student with
-			<span class="highlight">8+ years of operations experience, including 6+ years in warehouse environments</span>.
+				Software Engineering graduate with
+				<span class="highlight">8+ years of operations experience</span>
+				across logistics, import/export coordination, and warehouse environments.
+				During my time in warehouse management, I also spent
+				<span class="highlight">2+ years developing internal web applications</span>
+				to automate workflows, reporting, and operational tracking for real business use.
 			</p>
 
 			<p>
-			I build full-stack web applications using PHP, MySQL, and JavaScript
-			to replace manual workflows and improve operational efficiency.
+				I build full-stack web applications using PHP, JavaScript, SQL, and modern web technologies
+				to replace manual workflows and improve operational efficiency.
 			</p>
 
 			<p>
-			In real business environments, my systems have
-			<span class="highlight">reduced order processing time by 7x (from one week to one day)</span>
-			by automating validation, tracking, and routing processes.
+				In real business environments, my systems have
+				<span class="highlight">reduced order processing time by 7x (from one week to one day)</span>
+				by automating validation, tracking, and routing processes.
 			</p>
 
 			<p>
-			I have also developed internal platforms, including a
-			<span class="highlight">voucher management system</span>
-			that handles validation, tracking, and reporting for employee purchases across multiple organizations.
+				I have also developed internal platforms, including a
+				<span class="highlight">voucher management system</span>
+				that handles validation, tracking, and reporting for employee purchases
+				across multiple organizations.
 			</p>
 
 			<p>
-			Beyond software, I have improved team productivity through workflow optimization and process restructuring in warehouse operations.
+				Beyond software, I have improved team productivity through workflow optimization
+				and process restructuring in warehouse operations.
 			</p>
 
 			<p>
-			My focus is on
-			<span class="highlight">backend systems, database design, and workflow automation</span>
-			— building tools that are practical, scalable, and usable by non-technical teams.
+				My focus is on
+				<span class="highlight">backend development, database systems, and workflow automation</span>
+				— building tools that are practical, scalable, and usable by non-technical teams.
 			</p>
 
 			<p>
-			Currently pursuing a B.S. in Software Engineering at UT Arlington (Graduating May 2026), and seeking full-time Software Engineering opportunities.
+				B.S. in Software Engineering – University of Texas at Arlington (May 2026).
+				Seeking full-time Software Engineering opportunities.
 			</p>
 		</div>
 
@@ -147,22 +154,39 @@
 			<p class="infoTitle">Highlights</p>
 				<ul class='projectTextUl highligh-text'>
 					<li class='highligh-text'>
-						Built <span class="highlight">real-world systems</span> used daily in warehouse operations
+						Built <span class="highlight">real-world operational systems</span>
+						used daily in warehouse and business environments
 					</li>
+
 					<li class='highligh-text'>
-						Achieved <span class="highlight">7x faster order processing</span> through workflow automation
+						Achieved <span class="highlight">7x faster order processing</span>
+						through workflow automation and validation systems
 					</li>
+
 					<li class='highligh-text'>
-						Developed <span class="highlight">data-driven internal platforms</span> with validation, tracking, and reporting
+						Developed <span class="highlight">internal full-stack platforms</span>
+						with reporting, tracking, validation, and CSV export features
 					</li>
+
 					<li class='highligh-text'>
-						Strong focus on <span class="highlight">backend systems and database design</span>
+						Completed a
+						<span class="highlight">UTA Senior Design MERN capstone project</span>
+						focused on responsive tutoring management systems
 					</li>
+
 					<li class='highligh-text'>
-						Experience working in <span class="highlight">non-technical, real business environments</span>
+						Strong focus on
+						<span class="highlight">backend systems, database design, and workflow automation</span>
 					</li>
+
 					<li class='highligh-text'>
-						<span class="highlight">Graduating May 2026</span> • Seeking full-time Software Engineering roles
+						Experience working in
+						<span class="highlight">team-based and non-technical business environments</span>
+					</li>
+
+					<li class='highligh-text'>
+						<span class="highlight">Software Engineering Graduate — May 2026</span>
+						• Seeking full-time Software Engineering roles
 					</li>
 				</ul>
 		</div>
