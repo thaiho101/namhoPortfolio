@@ -46,7 +46,7 @@
 				Available for full-time Software Engineering roles
 		</p>
 	</div>
-    <p class="heroTag">Full-Stack Engineer • Problem Solver • Real-World Systems</p>
+    <p class="heroTag">Full-Stack Developer • Problem Solver • Real-World Systems</p>
     <h1>Nam Ho</h1>
     <h2>Software Engineering</h2>
 
@@ -66,8 +66,8 @@
         <span class="metricLabel">YEARS OPERATIONS EXPERIENCE (2+ YEARS DEVELOPING REAL-WORLD SYSTEMS)</span>
       </div>
       <div class="metricBox">
-        <span class="metricVal">7</span>
-        <span class="metricLabel">Live projects</span>
+        <span class="metricVal">8</span>
+        <span class="metricLabel">Software Projects</span>
       </div>
       <div class="metricBox">
         <span class="metricVal">3.68</span>
@@ -90,7 +90,7 @@
       <ul>
         <li>Production-ready web applications</li>
         <li>Workflow & business systems</li>
-        <li>React – BugHouse (Capstone)</li>
+        <li>MERN Stack Development – Senior Design Capstone</li>
         <li>Python – Data Structures & Algorithms (LeetCode)</li>
       </ul>
     </div>
@@ -107,39 +107,46 @@
 	<div class="aboutGrid">
 		<div class="glassCard about-text">
 			<p>
-			Software Engineering student with
-			<span class="highlight">8+ years of operations experience, including 6+ years in warehouse environments</span>.
+				Software Engineering graduate with
+				<span class="highlight">8+ years of operations experience</span>
+				across logistics, import/export coordination, and warehouse environments.
+				During my time in warehouse management, I also spent
+				<span class="highlight">2+ years developing internal web applications</span>
+				to automate workflows, reporting, and operational tracking for real business use.
 			</p>
 
 			<p>
-			I build full-stack web applications using PHP, MySQL, and JavaScript
-			to replace manual workflows and improve operational efficiency.
+				I build full-stack web applications using PHP, JavaScript, SQL, and modern web technologies
+				to replace manual workflows and improve operational efficiency.
 			</p>
 
 			<p>
-			In real business environments, my systems have
-			<span class="highlight">reduced order processing time by 7x (from one week to one day)</span>
-			by automating validation, tracking, and routing processes.
+				In real business environments, my systems have
+				<span class="highlight">reduced order processing time by 7x (from one week to one day)</span>
+				by automating validation, tracking, and routing processes.
 			</p>
 
 			<p>
-			I have also developed internal platforms, including a
-			<span class="highlight">voucher management system</span>
-			that handles validation, tracking, and reporting for employee purchases across multiple organizations.
+				I have also developed internal platforms, including a
+				<span class="highlight">voucher management system</span>
+				that handles validation, tracking, and reporting for employee purchases
+				across multiple organizations.
 			</p>
 
 			<p>
-			Beyond software, I have improved team productivity through workflow optimization and process restructuring in warehouse operations.
+				Beyond software, I have improved team productivity through workflow optimization
+				and process restructuring in warehouse operations.
 			</p>
 
 			<p>
-			My focus is on
-			<span class="highlight">backend systems, database design, and workflow automation</span>
-			— building tools that are practical, scalable, and usable by non-technical teams.
+				My focus is on
+				<span class="highlight">backend development, database systems, and workflow automation</span>
+				— building tools that are practical, scalable, and usable by non-technical teams.
 			</p>
 
 			<p>
-			Currently pursuing a B.S. in Software Engineering at UT Arlington (Graduating May 2026), and seeking full-time Software Engineering opportunities.
+				B.S. in Software Engineering – University of Texas at Arlington (May 2026).
+				Seeking full-time Software Engineering opportunities.
 			</p>
 		</div>
 
@@ -147,22 +154,39 @@
 			<p class="infoTitle">Highlights</p>
 				<ul class='projectTextUl highligh-text'>
 					<li class='highligh-text'>
-						Built <span class="highlight">real-world systems</span> used daily in warehouse operations
+						Built <span class="highlight">real-world operational systems</span>
+						used daily in warehouse and business environments
 					</li>
+
 					<li class='highligh-text'>
-						Achieved <span class="highlight">7x faster order processing</span> through workflow automation
+						Achieved <span class="highlight">7x faster order processing</span>
+						through workflow automation and validation systems
 					</li>
+
 					<li class='highligh-text'>
-						Developed <span class="highlight">data-driven internal platforms</span> with validation, tracking, and reporting
+						Developed <span class="highlight">internal full-stack platforms</span>
+						with reporting, tracking, validation, and CSV export features
 					</li>
+
 					<li class='highligh-text'>
-						Strong focus on <span class="highlight">backend systems and database design</span>
+						Completed a
+						<span class="highlight">UTA Senior Design MERN capstone project</span>
+						focused on responsive tutoring management systems
 					</li>
+
 					<li class='highligh-text'>
-						Experience working in <span class="highlight">non-technical, real business environments</span>
+						Strong focus on
+						<span class="highlight">backend systems, database design, and workflow automation</span>
 					</li>
+
 					<li class='highligh-text'>
-						<span class="highlight">Graduating May 2026</span> • Seeking full-time Software Engineering roles
+						Experience working in
+						<span class="highlight">team-based and non-technical business environments</span>
+					</li>
+
+					<li class='highligh-text'>
+						<span class="highlight">Software Engineering Graduate — May 2026</span>
+						• Seeking full-time Software Engineering roles
 					</li>
 				</ul>
 		</div>
@@ -255,6 +279,7 @@
 									<li>Implemented <span class='highlight'>real-time validation engine</span> to classify embroidery requirements and reduce manual errors</li>
 								</ul>
 						<div class="projectTags">
+							<span>Full-Stack</span>
 							<span>Warehouse Operations</span>
 							<span>Real-time Validation</span>
 							<span>Workflow System</span>
@@ -287,6 +312,7 @@
 								<li>Reduced manual tracking errors and improved operational visibility</li>
 							</ul>
 						<div class="projectTags">
+							<span>Full-Stack</span>
 							<span>Business System</span>
 							<span>Dashboard</span>
 							<span>Reporting</span>
@@ -318,11 +344,12 @@
 							</ul>
 
 						<div class="projectTags">
-				<span>Education Platform</span>
-				<span>Multilingual</span>
-				<span>Text-to-Speech</span>
-				<span>Ad-free</span>
-				<span>Public web application</span>
+							<span>Full-Stack</span>
+							<span>Education Platform</span>
+							<span>Multilingual</span>
+							<span>Text-to-Speech</span>
+							<span>Ad-free</span>
+							<span>Public web application</span>
 						</div>
 					</div>
 				</div>
@@ -347,6 +374,7 @@
 								<li>Enabled data-driven insights into spending patterns through visualization features</li>
 							</ul>
 						<div class="projectTags">
+							<span>Full-Stack</span>
 							<span>Budget Tracking</span>
 							<span>Data Visualization</span>
 							<span>Personal Finance</span>
@@ -377,11 +405,12 @@
 								<li>Reduced risk of missing or inaccurate time records with a <span class='highlight'>reliable fallback system</span></li>
 							</ul>
 						<div class="projectTags">
-				<span>Time Tracking</span>
-				<span>Backup System</span>
-				<span>Admin Dashboard</span>
-				<span>Real Usage</span>
-				<span>Public web application</span>
+							<span>Full-Stack</span>
+							<span>Time Tracking</span>
+							<span>Backup System</span>
+							<span>Admin Dashboard</span>
+							<span>Real Usage</span>
+							<span>Public web application</span>
 						</div>
 					</div>
 				</div>
@@ -475,38 +504,62 @@
 
 	<div class="glassCard" style='padding-left: 70px;'>
 
-		<h3>BugHouse – Tutoring Management Platform</h3>
+		<div class='projectTopLine'>
+			<h3>BugHouse – Tutoring Management Platform</h3>
+			<div>
+				<a href="https://github.com/UTAHiveMind/UTABughouse" target="_blank" class="visitBtn">
+					<i class="fab fa-github"></i>
+				</a>
+
+				<a href="https://websites.uta.edu/cseseniordesign/2026/05/01/bughouse-3/" target="_blank" class="visitBtn">
+					View Details
+				</a>
+			</div>
+		</div>	
+
 		<p class="expMeta" style='padding-bottom: 20px;'>
 			UTA Senior Design • MERN Stack • Team-based • 2025-2026
 		</p>
 
-		<ul class="expList" style='padding-bottom: 20px;'>
 
-			<li>
-				Contributed to a large-scale tutoring management platform at UTA, 
-				working within an existing MERN-based architecture (React, Node.js, Express, MongoDB).
-			</li>
-			<li>
-				<span class='highlight'>Implemented weekly report generation feature</span> 
-				for administrative reporting and data analysis.
-			</li>
-			<li>
-				<span class='highlight'>Designed and optimized responsive UI for mobile devices</span>, 
-				improving accessibility and user experience across the platform.
-			</li>
-			<li>
-				Collaborated in a multi-developer team environment, contributing to 
-				feature enhancements and system improvements.
-			</li>
 
-		</ul>
-		<a href="https://github.com/UTAHiveMind/UTABughouse" target="_blank" class="visitBtn"><i class="fab fa-github"></i></a>
 
-		<a href="https://websites.uta.edu/cseseniordesign/2025/08/11/bughouse-2/" target="_blank" class="visitBtn">
-			View Details
-		</a>
+<ul class="expList" style='padding-bottom: 20px;'>
+
+	<li>
+		Contributed to a large-scale tutoring management platform at UTA,
+		working within an existing MERN-based architecture (React, Node.js, Express.js, MongoDB).
+	</li>
+
+	<li>
+		<span class='highlight'>Redesigned attendance report filtering</span>
+		by moving date-range processing from frontend logic to backend API endpoints using query parameters.
+	</li>
+
+	<li>
+		Implemented <span class='highlight'>CSV-based attendance and tutor reporting features</span>
+		using backend API filtering and MongoDB query processing for administrative analysis.
+	</li>
+
+	<li>
+		<span class='highlight'>Developed a fully responsive mobile interface</span>,
+		improving usability across smaller devices and resolving long-standing UI limitations from previous project iterations.
+	</li>
+
+</ul>
+	<div class="projectTags" style='padding-bottom: 10px;'>
+		<span>Full-Stack</span>
+		<span>MERN Stack</span>
+		<span>Backend APIs</span>
+		<span>MongoDB</span>
+		<span>CSV Reporting</span>
+		<span>Responsive UI</span>
+	</div>
+
+
 
 	</div>
+
 	<script src='./frontend/projectTracker.js'></script>
 	<script src="./frontend/projectPreview.js"></script>
 </section>
@@ -640,12 +693,12 @@
 
 		<div class="skillCard">
 			<h3><i class="fas fa-database"></i> Backend</h3>
-			<p>PHP (server-side logic, form handling, validation)</p>
+			<p>PHP, Node.js, Express.js, RESTful APIs</p>
 		</div>
 
 		<div class="skillCard">
 			<h3><i class="fas fa-database"></i> Database</h3>
-			<p>MySQL</p>
+			<p>MySQL, MongoDB</p>
 		</div>
 
 		<div class="skillCard">
