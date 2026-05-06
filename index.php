@@ -46,7 +46,7 @@
 				Available for full-time Software Engineering roles
 		</p>
 	</div>
-    <p class="heroTag">Full-Stack Engineer • Problem Solver • Real-World Systems</p>
+    <p class="heroTag">Full-Stack Developer • Problem Solver • Real-World Systems</p>
     <h1>Nam Ho</h1>
     <h2>Software Engineering</h2>
 
@@ -90,7 +90,7 @@
       <ul>
         <li>Production-ready web applications</li>
         <li>Workflow & business systems</li>
-        <li>React – BugHouse (Capstone)</li>
+        <li>MERN Stack Development – Senior Design Capstone</li>
         <li>Python – Data Structures & Algorithms (LeetCode)</li>
       </ul>
     </div>
@@ -480,31 +480,42 @@
 			UTA Senior Design • MERN Stack • Team-based • 2025-2026
 		</p>
 
-		<ul class="expList" style='padding-bottom: 20px;'>
+<ul class="expList" style='padding-bottom: 20px;'>
 
-			<li>
-				Contributed to a large-scale tutoring management platform at UTA, 
-				working within an existing MERN-based architecture (React, Node.js, Express, MongoDB).
-			</li>
-			<li>
-				<span class='highlight'>Implemented weekly report generation feature</span> 
-				for administrative reporting and data analysis.
-			</li>
-			<li>
-				<span class='highlight'>Designed and optimized responsive UI for mobile devices</span>, 
-				improving accessibility and user experience across the platform.
-			</li>
-			<li>
-				Collaborated in a multi-developer team environment, contributing to 
-				feature enhancements and system improvements.
-			</li>
+	<li>
+		Contributed to a large-scale tutoring management platform at UTA,
+		working within an existing MERN-based architecture (React, Node.js, Express.js, MongoDB).
+	</li>
 
-		</ul>
-		<a href="https://github.com/UTAHiveMind/UTABughouse" target="_blank" class="visitBtn"><i class="fab fa-github"></i></a>
+	<li>
+		<span class='highlight'>Redesigned attendance report filtering</span>
+		by moving date-range processing from frontend logic to backend API endpoints using query parameters.
+	</li>
 
-		<a href="https://websites.uta.edu/cseseniordesign/2025/08/11/bughouse-2/" target="_blank" class="visitBtn">
-			View Details
-		</a>
+	<li>
+		Implemented <span class='highlight'>CSV-based attendance and tutor reporting features</span>
+		using backend API filtering and MongoDB query processing for administrative analysis.
+	</li>
+
+	<li>
+		<span class='highlight'>Developed a fully responsive mobile interface</span>,
+		improving usability across smaller devices and resolving long-standing UI limitations from previous project iterations.
+	</li>
+
+	<li>
+		Collaborated in a multi-developer Senior Design team environment,
+		contributing to feature enhancements, reporting workflows, and platform usability improvements.
+	</li>
+
+</ul>
+
+<a href="https://github.com/UTAHiveMind/UTABughouse" target="_blank" class="visitBtn">
+	<i class="fab fa-github"></i>
+</a>
+
+<a href="https://websites.uta.edu/cseseniordesign/2026/05/01/bughouse-3/" target="_blank" class="visitBtn">
+	View Details
+</a>
 
 	</div>
 	<script src='./frontend/projectTracker.js'></script>
@@ -640,12 +651,12 @@
 
 		<div class="skillCard">
 			<h3><i class="fas fa-database"></i> Backend</h3>
-			<p>PHP (server-side logic, form handling, validation)</p>
+			<p>PHP, Node.js, Express.js, RESTful APIs</p>
 		</div>
 
 		<div class="skillCard">
 			<h3><i class="fas fa-database"></i> Database</h3>
-			<p>MySQL</p>
+			<p>MySQL, MongoDB</p>
 		</div>
 
 		<div class="skillCard">
