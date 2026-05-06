@@ -66,8 +66,8 @@
         <span class="metricLabel">YEARS OPERATIONS EXPERIENCE (2+ YEARS DEVELOPING REAL-WORLD SYSTEMS)</span>
       </div>
       <div class="metricBox">
-        <span class="metricVal">7</span>
-        <span class="metricLabel">Live projects</span>
+        <span class="metricVal">8</span>
+        <span class="metricLabel">Software Projects</span>
       </div>
       <div class="metricBox">
         <span class="metricVal">3.68</span>
@@ -255,6 +255,7 @@
 									<li>Implemented <span class='highlight'>real-time validation engine</span> to classify embroidery requirements and reduce manual errors</li>
 								</ul>
 						<div class="projectTags">
+							<span>Full-Stack</span>
 							<span>Warehouse Operations</span>
 							<span>Real-time Validation</span>
 							<span>Workflow System</span>
@@ -287,6 +288,7 @@
 								<li>Reduced manual tracking errors and improved operational visibility</li>
 							</ul>
 						<div class="projectTags">
+							<span>Full-Stack</span>
 							<span>Business System</span>
 							<span>Dashboard</span>
 							<span>Reporting</span>
@@ -318,11 +320,12 @@
 							</ul>
 
 						<div class="projectTags">
-				<span>Education Platform</span>
-				<span>Multilingual</span>
-				<span>Text-to-Speech</span>
-				<span>Ad-free</span>
-				<span>Public web application</span>
+							<span>Full-Stack</span>
+							<span>Education Platform</span>
+							<span>Multilingual</span>
+							<span>Text-to-Speech</span>
+							<span>Ad-free</span>
+							<span>Public web application</span>
 						</div>
 					</div>
 				</div>
@@ -347,6 +350,7 @@
 								<li>Enabled data-driven insights into spending patterns through visualization features</li>
 							</ul>
 						<div class="projectTags">
+							<span>Full-Stack</span>
 							<span>Budget Tracking</span>
 							<span>Data Visualization</span>
 							<span>Personal Finance</span>
@@ -377,11 +381,12 @@
 								<li>Reduced risk of missing or inaccurate time records with a <span class='highlight'>reliable fallback system</span></li>
 							</ul>
 						<div class="projectTags">
-				<span>Time Tracking</span>
-				<span>Backup System</span>
-				<span>Admin Dashboard</span>
-				<span>Real Usage</span>
-				<span>Public web application</span>
+							<span>Full-Stack</span>
+							<span>Time Tracking</span>
+							<span>Backup System</span>
+							<span>Admin Dashboard</span>
+							<span>Real Usage</span>
+							<span>Public web application</span>
 						</div>
 					</div>
 				</div>
@@ -475,10 +480,25 @@
 
 	<div class="glassCard" style='padding-left: 70px;'>
 
-		<h3>BugHouse – Tutoring Management Platform</h3>
+		<div class='projectTopLine'>
+			<h3>BugHouse – Tutoring Management Platform</h3>
+			<div>
+				<a href="https://github.com/UTAHiveMind/UTABughouse" target="_blank" class="visitBtn">
+					<i class="fab fa-github"></i>
+				</a>
+
+				<a href="https://websites.uta.edu/cseseniordesign/2026/05/01/bughouse-3/" target="_blank" class="visitBtn">
+					View Details
+				</a>
+			</div>
+		</div>	
+
 		<p class="expMeta" style='padding-bottom: 20px;'>
 			UTA Senior Design • MERN Stack • Team-based • 2025-2026
 		</p>
+
+
+
 
 <ul class="expList" style='padding-bottom: 20px;'>
 
@@ -502,22 +522,20 @@
 		improving usability across smaller devices and resolving long-standing UI limitations from previous project iterations.
 	</li>
 
-	<li>
-		Collaborated in a multi-developer Senior Design team environment,
-		contributing to feature enhancements, reporting workflows, and platform usability improvements.
-	</li>
-
 </ul>
+	<div class="projectTags" style='padding-bottom: 10px;'>
+		<span>Full-Stack</span>
+		<span>MERN Stack</span>
+		<span>Backend APIs</span>
+		<span>MongoDB</span>
+		<span>CSV Reporting</span>
+		<span>Responsive UI</span>
+	</div>
 
-<a href="https://github.com/UTAHiveMind/UTABughouse" target="_blank" class="visitBtn">
-	<i class="fab fa-github"></i>
-</a>
 
-<a href="https://websites.uta.edu/cseseniordesign/2026/05/01/bughouse-3/" target="_blank" class="visitBtn">
-	View Details
-</a>
 
 	</div>
+
 	<script src='./frontend/projectTracker.js'></script>
 	<script src="./frontend/projectPreview.js"></script>
 </section>
