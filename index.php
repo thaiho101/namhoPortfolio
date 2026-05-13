@@ -70,7 +70,7 @@
         <span class="metricLabel">Software Projects</span>
       </div>
       <div class="metricBox">
-        <span class="metricVal">3.68</span>
+        <span class="metricVal">3.69</span>
         <span class="metricLabel">GPA @ UTA</span>
 		<span class="metricLabel">Cum Laude</span>
       </div>
@@ -207,7 +207,7 @@
         <h3>University of Texas at Arlington</h3>
 		<p class="schoolDate">Jan 2024 – May 2026</p>
 		<div class='companyDuration'>
-        	<p class="award"><span style='text-shadow: 0 0 5px white;'>🎓</span> B.S. Software Engineering | GPA: <span class='highlight'>3.68</span></p>
+        	<p class="award"><span style='text-shadow: 0 0 5px white;'>🎓</span> B.S. Software Engineering | GPA: <span class='highlight'>3.69</span></p>
 			<p class='award'><span style='text-shadow: 0 0 10px yellow;'>🏅</span> Cum Laude</p>
 		</div>
       </div>
