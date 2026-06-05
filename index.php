@@ -683,17 +683,17 @@
 
 		<div class="skillCard">
 			<h3><i class="fas fa-code"></i> Languages</h3>
-			<p> PHP, JavaScript, Python</p>
+			<p> PHP, Java, Python</p>
 		</div>
 
 		<div class="skillCard">
 			<h3><i class="fas fa-laptop-code"></i> Frontend</h3>
-			<p>HTML, CSS, React, Responsive Design</p>
+			<p>HTML, CSS, React, Responsive Design, JavaScript</p>
 		</div>
 
 		<div class="skillCard">
 			<h3><i class="fas fa-database"></i> Backend</h3>
-			<p>PHP, Node.js, Express.js, RESTful APIs</p>
+			<p>PHP, Node.js, RESTful APIs</p>
 		</div>
 
 		<div class="skillCard">
