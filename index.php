@@ -274,7 +274,7 @@
 							</p>
 							<p class="projectSubTitle">System Design</p>
 								<ul class="projectTextUl">
-									<li>Designed <span class='highlight'>RESTful APIs</span> to handle order validation, routing, and processing logic</li>
+									<li>Designed <span class='highlight'>CRUD functionalities</span> to handle order validation, routing, and processing logic</li>
 									<li>Structured <span class='highlight'>MySQL database</span> for normalized tracking of orders, categories, and status updates</li>
 									<li>Implemented <span class='highlight'>real-time validation engine</span> to classify embroidery requirements and reduce manual errors</li>
 								</ul>
@@ -597,7 +597,7 @@
 
 							<li><span class='highlight'>Reduced order processing time by 7x (1 week → 1 day)</span> through system automation.</li>
 
-							<li>Built <span class='highlight'>RESTful APIs</span> for validation, data processing, and audit logging.</li>
+							<li>Designed and implemented <span class='highlight'>CRUD functionalities</span> for validation, data processing, and audit logging.</li>
 
 							<li>Developed dashboard interfaces for non-technical staff, improving usability and operational visibility.</li>
 
