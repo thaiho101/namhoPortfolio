@@ -252,42 +252,6 @@
 		<div class="projectsLayout">
 			<div class="projectsList">
 
-				<div id='journeyLedger' class="projectCard" data-preview="journeyLedgerImageReview">
-					<div class="projectText">
-						<div class="projectTopLine">
-							<h3>JourneyLedger – Travel Expense & Budget Management Platform</h3>
-							<div class='visitButtonContent'>
-								<a href="https://github.com/thaiho101/JourneyLedger" target="_blank" class="visitBtn"><i class="fab fa-github"></i></a>
-								<a href="https://journeyledger.fortuneterm.com" target="_blank" class="visitBtn">View Live</a>
-							</div>
-						</div>
-							<p>
-								A full-stack travel finance management platform built with Spring Boot, React, JWT authentication, and MariaDB.
-								Designed to help users track expenses, budgets, and spending analytics across multiple journeys and currencies.<br>
-
-								<ul class='projectTextUl'>
-									<li>Built secure authentication using JWT and Spring Security</li>
-									<li>Implemented RESTful APIs for journeys, transactions, and analytics</li>
-									<li>Developed responsive React dashboards for travel budgeting and expense tracking</li>
-									<li>Created category-based spending analytics with real-time summaries and budget monitoring</li>
-									<li>Designed normalized relational database architecture using MariaDB</li>
-								</ul>
-							</p>
-
-						<div class="projectTags">
-							<span>Java</span>
-							<span>Spring Boot</span>
-							<span>React</span>
-							<span>REST API</span>
-							<span>JWT Authentication</span>
-							<span>MariaDB</span>
-							<span>Responsive Design</span>
-							<span>Dashboard Analytics</span>
-						</div>
-					</div>
-				</div>
-
-
 				<div id='receiveFlow' class="projectCard" data-preview="receiveFlowImageReview">
 					<div class="projectText">
 						<div class="projectTopLine">
@@ -327,6 +291,68 @@
 					</div>
 				</div>
 
+				<div id='journeyLedger' class="projectCard" data-preview="journeyLedgerImageReview">
+					<div class="projectText">
+						<div class="projectTopLine">
+							<h3>JourneyLedger – Travel Expense & Budget Management Platform</h3>
+							<div class='visitButtonContent'>
+								<a href="https://github.com/thaiho101/JourneyLedger" target="_blank" class="visitBtn"><i class="fab fa-github"></i></a>
+								<a href="https://journeyledger.fortuneterm.com" target="_blank" class="visitBtn">View Live</a>
+							</div>
+						</div>
+							<p>
+								A full-stack travel finance management platform built with Spring Boot, React, JWT authentication, and MariaDB.
+								Designed to help users track expenses, budgets, and spending analytics across multiple journeys and currencies.<br>
+
+								<ul class='projectTextUl'>
+<li>
+    Built secure authentication using
+    <span class="highlight">JWT Authentication</span>
+    and
+    <span class="highlight">Spring Security</span>
+</li>
+
+<li>
+    Developed and secured
+    <span class="highlight">REST API endpoints</span>
+    for journey and transaction management
+</li>
+
+<li>
+    Built a full-stack application using
+    <span class="highlight">Java</span>,
+    <span class="highlight">Spring Boot</span>,
+    <span class="highlight">React</span>,
+    and
+    <span class="highlight">MariaDB</span>
+</li>
+
+<li>
+    Created
+    <span class="highlight">expense analytics dashboards</span>
+    with category summaries and budget tracking
+</li>
+
+<li>
+    Designed a
+    <span class="highlight">responsive mobile and desktop UI</span>
+    for travel expense management
+</li>
+								</ul>
+							</p>
+
+						<div class="projectTags">
+							<span>Java</span>
+							<span>Spring Boot</span>
+							<span>React</span>
+							<span>REST API</span>
+							<span>JWT Authentication</span>
+							<span>MariaDB</span>
+							<span>Responsive Design</span>
+							<span>Dashboard Analytics</span>
+						</div>
+					</div>
+				</div>
 
 				<div id='uniformVoucher' class="projectCard" data-preview="uniformsVoucherImageReview">
 					<div class="projectText">
