@@ -593,6 +593,10 @@ span:hover {
 	background-color: #111;
 }
 
+#journeyLedgerImageReview {
+	background-image: url("./photoReview/Journeys_Desktop.png");
+}
+
 #receiveFlowImageReview {
   	background-image: url("./photoReview/receiveflow.png");
 }
@@ -911,7 +915,7 @@ span:hover {
 	scroll-margin-top: 150px;
 }
 
-#receiveFlow, #uniformVoucher {
+#receiveFlow, #uniformVoucher, #journeyLedger {
 	scroll-margin-top: 200px;
 }
 

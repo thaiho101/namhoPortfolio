@@ -66,7 +66,7 @@
         <span class="metricLabel">YEARS OPERATIONS EXPERIENCE (2+ YEARS DEVELOPING REAL-WORLD SYSTEMS)</span>
       </div>
       <div class="metricBox">
-        <span class="metricVal">8</span>
+        <span class="metricVal">8+</span>
         <span class="metricLabel">Software Projects</span>
       </div>
       <div class="metricBox">
@@ -88,6 +88,7 @@
       <p class="smallLabel">Current Focus</p>
       <h3>Full-Stack Development</h3>
       <ul>
+        <li>Spring Boot & React Full-Stack Applications</li>
         <li>Production-ready web applications</li>
         <li>Workflow & business systems</li>
         <li>MERN Stack Development – Senior Design Capstone</li>
@@ -116,8 +117,7 @@
 			</p>
 
 			<p>
-				I build full-stack web applications using PHP, JavaScript, SQL, and modern web technologies
-				to replace manual workflows and improve operational efficiency.
+				I build full-stack web applications using Java, Spring Boot, React, PHP, JavaScript, and SQL to create secure, data-driven systems with practical business value.
 			</p>
 
 			<p>
@@ -247,10 +247,45 @@
 		<h2 class="sectionTitle">Featured Projects</h2>
 	</div>
 
-  	<div id='projectCount'><div class="timelineDotProject"></div> <div>Total: 6 Projects</div></div>
+  	<div id='projectCount'><div class="timelineDotProject"></div> <div>Total: 8+ Projects</div></div>
 	<div class='projectsLayoutCover'>
 		<div class="projectsLayout">
 			<div class="projectsList">
+
+				<div id='journeyLedger' class="projectCard" data-preview="journeyLedgerImageReview">
+					<div class="projectText">
+						<div class="projectTopLine">
+							<h3>JourneyLedger – Travel Expense & Budget Management Platform</h3>
+							<div class='visitButtonContent'>
+								<a href="https://github.com/thaiho101/JourneyLedger" target="_blank" class="visitBtn"><i class="fab fa-github"></i></a>
+								<a href="https://journeyledger.fortuneterm.com" target="_blank" class="visitBtn">View Live</a>
+							</div>
+						</div>
+							<p>
+								A full-stack travel finance management platform built with Spring Boot, React, JWT authentication, and MariaDB.
+								Designed to help users track expenses, budgets, and spending analytics across multiple journeys and currencies.<br>
+
+								<ul class='projectTextUl'>
+									<li>Built secure authentication using JWT and Spring Security</li>
+									<li>Implemented RESTful APIs for journeys, transactions, and analytics</li>
+									<li>Developed responsive React dashboards for travel budgeting and expense tracking</li>
+									<li>Created category-based spending analytics with real-time summaries and budget monitoring</li>
+									<li>Designed normalized relational database architecture using MariaDB</li>
+								</ul>
+							</p>
+
+						<div class="projectTags">
+							<span>Java</span>
+							<span>Spring Boot</span>
+							<span>React</span>
+							<span>REST API</span>
+							<span>JWT Authentication</span>
+							<span>MariaDB</span>
+							<span>Responsive Design</span>
+							<span>Dashboard Analytics</span>
+						</div>
+					</div>
+				</div>
 
 
 				<div id='receiveFlow' class="projectCard" data-preview="receiveFlowImageReview">
@@ -481,6 +516,7 @@
 					<p>The screenshot preview will appear here.</p>
 				</div>
 
+				<div id="journeyLedgerImageReview" class="previewBox fitFrame"></div>
 				<div id="receiveFlowImageReview" class="previewBox fitFrame"></div>
 				<div id="naturalizationTestImageReview" class="previewBox fitFrame"></div>
 				<div id="marketCostImageReview" class="previewBox fitFrame"></div>
@@ -693,12 +729,12 @@
 
 		<div class="skillCard">
 			<h3><i class="fas fa-database"></i> Backend</h3>
-			<p>PHP, Node.js, RESTful APIs</p>
+			<p>Java, Spring Boot, PHP, Node.js, RESTful APIs, JWT Authentication</p>
 		</div>
 
 		<div class="skillCard">
 			<h3><i class="fas fa-database"></i> Database</h3>
-			<p>MySQL, MongoDB</p>
+			<p>MariaDB, MySQL, MongoDB</p>
 		</div>
 
 		<div class="skillCard">
