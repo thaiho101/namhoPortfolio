@@ -90,6 +90,7 @@
       <ul>
         <li>Spring Boot & React Full-Stack Applications</li>
         <li>Production-ready web applications</li>
+        <li>CI/CD & Self-hosted Deployment</li>
         <li>Workflow & business systems</li>
         <li>MERN Stack Development – Senior Design Capstone</li>
         <li>Python – Data Structures & Algorithms (LeetCode)</li>
@@ -265,10 +266,18 @@
 								A warehouse receiving workflow system replacing manual sorting and spreadsheet tracking.<br>
 
 								<ul class='projectTextUl'>
-								<li>Reduced order preparation time by <span class='highlight'>7x (1 week → 1 day)</span></li>  
-								<li>Implemented <span class='highlight'>real-time validation</span> and audit logging for order processing</li>  
-								<li>Built for real-world warehouse operations in the uniform supply industry</li> 
-								<li>Deployed a self-hosted production-style system on Raspberry Pi and exposed it securely via Cloudflare Tunnel</li>
+									<li>Reduced order preparation time by <span class='highlight'>7x (1 week → 1 day)</span></li>  
+									<li>Implemented <span class='highlight'>real-time validation</span> and audit logging for order processing</li>  
+									<li>Built for real-world warehouse operations in the uniform supply industry</li> 
+									<li>Deployed a self-hosted production-style system on Raspberry Pi and exposed it securely via Cloudflare Tunnel</li>
+									<li>
+									Automated production code synchronization using
+									<span class="highlight">GitHub Actions</span>,
+									a
+									<span class="highlight">self-hosted Raspberry Pi runner</span>,
+									and
+									<span class="highlight">Bash</span>.
+									</li>
 								</ul>
 							</p>
 							<p class="projectSubTitle">System Design</p>
@@ -305,39 +314,51 @@
 								Designed to help users track expenses, budgets, and spending analytics across multiple journeys and currencies.<br>
 
 								<ul class='projectTextUl'>
-<li>
-    Built secure authentication using
-    <span class="highlight">JWT Authentication</span>
-    and
-    <span class="highlight">Spring Security</span>
-</li>
+									<li>
+										Built secure authentication using
+										<span class="highlight">JWT Authentication</span>
+										and
+										<span class="highlight">Spring Security</span>
+									</li>
 
-<li>
-    Developed and secured
-    <span class="highlight">REST API endpoints</span>
-    for journey and transaction management
-</li>
+									<li>
+										Developed and secured
+										<span class="highlight">REST API endpoints</span>
+										for journey and transaction management
+									</li>
 
-<li>
-    Built a full-stack application using
-    <span class="highlight">Java</span>,
-    <span class="highlight">Spring Boot</span>,
-    <span class="highlight">React</span>,
-    and
-    <span class="highlight">MariaDB</span>
-</li>
+									<li>
+										Built a full-stack application using
+										<span class="highlight">Java</span>,
+										<span class="highlight">Spring Boot</span>,
+										<span class="highlight">React</span>,
+										and
+										<span class="highlight">MariaDB</span>
+									</li>
 
-<li>
-    Created
-    <span class="highlight">expense analytics dashboards</span>
-    with category summaries and budget tracking
-</li>
+									<li>
+										Created
+										<span class="highlight">expense analytics dashboards</span>
+										with category summaries and budget tracking
+									</li>
 
-<li>
-    Designed a
-    <span class="highlight">responsive mobile and desktop UI</span>
-    for travel expense management
-</li>
+									<li>
+										Designed a
+										<span class="highlight">responsive mobile and desktop UI</span>
+										for travel expense management
+									</li>
+
+									<li>
+										Built a
+										<span class="highlight">self-hosted CI/CD pipeline</span>
+										using
+										<span class="highlight">GitHub Actions</span>,
+										a
+										<span class="highlight">self-hosted Raspberry Pi runner</span>,
+										and
+										<span class="highlight">Bash</span>
+										to automatically build and deploy backend updates with deployment notifications.
+									</li>
 								</ul>
 							</p>
 
@@ -350,6 +371,8 @@
 							<span>MariaDB</span>
 							<span>Responsive Design</span>
 							<span>Dashboard Analytics</span>
+							<span>CI/CD</span>
+							<span>GitHub Actions</span>
 						</div>
 					</div>
 				</div>
@@ -765,12 +788,12 @@
 
 		<div class="skillCard">
 			<h3><i class="fas fa-screwdriver-wrench"></i> Tools & Systems</h3>
-			<p>Git, GitHub, Linux</p>
+			<p>Git, GitHub, GitHub Actions, Linux, Bash</p>
 		</div>
 
 		<div class="skillCard">
 			<h3><i class="fas fa-database"></i> Infrastructure</h3>
-			<p>Self-hosted deployment (Raspberry Pi, Cloudflare Tunnel)</p>
+			<p>CI/CD, Self-hosted deployment (Raspberry Pi, Cloudflare Tunnel)</p>
 		</div>
 
 	</div>
