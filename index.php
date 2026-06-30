@@ -51,7 +51,7 @@
     <h2>Software Engineering</h2>
 
     <p class="heroIntro">
-      Building systems that solve real operational problems.
+      Building production-ready full-stack systems that solve real operational problems.
     </p>
 
 	<br>
@@ -88,7 +88,8 @@
       <p class="smallLabel">Current Focus</p>
       <h3>Full-Stack Development</h3>
       <ul>
-        <li>Spring Boot & React Full-Stack Applications</li>
+        <li>Spring Boot & React Full-Stack</li>
+        <li>Docker & Docker Compose</li>
         <li>Production-ready web applications</li>
         <li>CI/CD & Self-hosted Deployment</li>
         <li>Workflow & business systems</li>
@@ -118,7 +119,7 @@
 			</p>
 
 			<p>
-				I build full-stack web applications using Java, Spring Boot, React, PHP, JavaScript, and SQL to create secure, data-driven systems with practical business value.
+				I build production-ready full-stack web applications using Java, Spring Boot, React, Docker, REST APIs, and SQL to create secure, scalable business systems.
 			</p>
 
 			<p>
@@ -183,6 +184,11 @@
 					<li class='highligh-text'>
 						Experience working in
 						<span class="highlight">team-based and non-technical business environments</span>
+					</li>
+
+					<li class='highligh-text'>
+						• Experience containerizing full-stack applications using 
+						<span class="highlight">Docker and Docker Compose</span>
 					</li>
 
 					<li class='highligh-text'>
@@ -253,128 +259,232 @@
 		<div class="projectsLayout">
 			<div class="projectsList">
 
-				<div id='receiveFlow' class="projectCard" data-preview="receiveFlowImageReview">
-					<div class="projectText">
-						<div class="projectTopLine">
-							<h3>ReceiveFlow – Warehouse Receiving System</h3>
-							<div class='visitButtonContent'>
-								<a href="https://github.com/thaiho101/receiveflow" target="_blank" class="visitBtn"><i class="fab fa-github"></i></a>
-								<a href="https://namho-receiveflow.fortuneterm.com" target="_blank" class="visitBtn">View Live</a>
-							</div>
-						</div>
-							<p>
-								A warehouse receiving workflow system replacing manual sorting and spreadsheet tracking.<br>
-
-								<ul class='projectTextUl'>
-									<li>Reduced order preparation time by <span class='highlight'>7x (1 week → 1 day)</span></li>  
-									<li>Implemented <span class='highlight'>real-time validation</span> and audit logging for order processing</li>  
-									<li>Built for real-world warehouse operations in the uniform supply industry</li> 
-									<li>Deployed a self-hosted production-style system on Raspberry Pi and exposed it securely via Cloudflare Tunnel</li>
-									<li>
-									Automated production code synchronization using
-									<span class="highlight">GitHub Actions</span>,
-									a
-									<span class="highlight">self-hosted Raspberry Pi runner</span>,
-									and
-									<span class="highlight">Bash</span>.
-									</li>
-								</ul>
-							</p>
-							<p class="projectSubTitle">System Design</p>
-								<ul class="projectTextUl">
-									<li>Designed <span class='highlight'>CRUD functionalities</span> to handle order validation, routing, and processing logic</li>
-									<li>Structured <span class='highlight'>MySQL database</span> for normalized tracking of orders, categories, and status updates</li>
-									<li>Implemented <span class='highlight'>real-time validation engine</span> to classify embroidery requirements and reduce manual errors</li>
-								</ul>
-						<div class="projectTags">
-							<span>Full-Stack</span>
-							<span>Warehouse Operations</span>
-							<span>Real-time Validation</span>
-							<span>Workflow System</span>
-							<span>Validation Engine</span>
-							<span>Audit Logging</span>
-							<span>CSV Export</span>
-							<span>Self-hosted</span>
-    						<span>Remote Access</span>
-						</div>
-					</div>
-				</div>
+				
 
 				<div id='journeyLedger' class="projectCard" data-preview="journeyLedgerImageReview">
+
 					<div class="projectText">
+
 						<div class="projectTopLine">
-							<h3>JourneyLedger – Travel Expense & Budget Management Platform</h3>
+
+							<h3>JourneyLedger – Travel Expense Management Platform</h3>
+
 							<div class='visitButtonContent'>
-								<a href="https://github.com/thaiho101/JourneyLedger" target="_blank" class="visitBtn"><i class="fab fa-github"></i></a>
-								<a href="https://journeyledger.fortuneterm.com" target="_blank" class="visitBtn">View Live</a>
+								<a href="https://github.com/thaiho101/JourneyLedger" target="_blank" class="visitBtn">
+									<i class="fab fa-github"></i>
+								</a>
+
+								<a href="https://journeyledger.fortuneterm.com" target="_blank" class="visitBtn">
+									View Live
+								</a>
 							</div>
+
 						</div>
-							<p>
-								A full-stack travel finance management platform built with Spring Boot, React, JWT authentication, and MariaDB.
-								Designed to help users track expenses, budgets, and spending analytics across multiple journeys and currencies.<br>
 
-								<ul class='projectTextUl'>
-									<li>
-										Built secure authentication using
-										<span class="highlight">JWT Authentication</span>
-										and
-										<span class="highlight">Spring Security</span>
-									</li>
+						<p>
+							A production-ready full-stack travel expense management platform built with
+							<strong>Spring Boot</strong>,
+							<strong>React</strong>,
+							<strong>Spring Security</strong>,
+							and
+							<strong>MariaDB</strong>
+							to help users manage journeys, transactions, budgets, and spending analytics.
+						</p>
 
-									<li>
-										Developed and secured
-										<span class="highlight">REST API endpoints</span>
-										for journey and transaction management
-									</li>
+						<p class="projectSubTitle">Core Features</p>
 
-									<li>
-										Built a full-stack application using
-										<span class="highlight">Java</span>,
-										<span class="highlight">Spring Boot</span>,
-										<span class="highlight">React</span>,
-										and
-										<span class="highlight">MariaDB</span>
-									</li>
+						<ul class='projectTextUl'>
 
-									<li>
-										Created
-										<span class="highlight">expense analytics dashboards</span>
-										with category summaries and budget tracking
-									</li>
+						<li>
+							Implemented
+							<span class="highlight">JWT Authentication</span>
+							and
+							<span class="highlight">Spring Security</span>
+							to secure user access.
+						</li>
 
-									<li>
-										Designed a
-										<span class="highlight">responsive mobile and desktop UI</span>
-										for travel expense management
-									</li>
+						<li>
+							Developed secure
+							<span class="highlight">REST API endpoints</span>
+							with complete
+							<span class="highlight">CRUD functionality</span>
+							for journeys and transactions.
+						</li>
 
-									<li>
-										Built a
-										<span class="highlight">self-hosted CI/CD pipeline</span>
-										using
-										<span class="highlight">GitHub Actions</span>,
-										a
-										<span class="highlight">self-hosted Raspberry Pi runner</span>,
-										and
-										<span class="highlight">Bash</span>
-										to automatically build and deploy backend updates with deployment notifications.
-									</li>
-								</ul>
-							</p>
+						<li>
+							Built
+							<span class="highlight">expense analytics dashboards</span>
+							with budgeting, category summaries, and responsive mobile support.
+						</li>
+
+						</ul>
+
+						<p class="projectSubTitle">Infrastructure</p>
+
+						<ul class='projectTextUl'>
+
+						<li>
+							Containerized the application using
+							<span class="highlight">Docker</span>,
+							<span class="highlight">Docker Compose</span>,
+							<span class="highlight">Nginx</span>,
+							and
+							<span class="highlight">MariaDB</span>
+							with
+							<span class="highlight">multi-stage builds</span>.
+						</li>
+
+						<li>
+							Built a
+							<span class="highlight">self-hosted CI/CD pipeline</span>
+							using
+							<span class="highlight">GitHub Actions</span>,
+							a
+							<span class="highlight">Raspberry Pi Runner</span>,
+							and
+							<span class="highlight">Bash</span>
+							to automatically build and deploy backend updates.
+						</li>
+
+						</ul>
 
 						<div class="projectTags">
+
 							<span>Java</span>
 							<span>Spring Boot</span>
 							<span>React</span>
-							<span>REST API</span>
-							<span>JWT Authentication</span>
+							<span>Docker</span>
+							<span>Docker Compose</span>
+							<span>Spring Security</span>
+							<span>JWT</span>
+							<span>REST APIs</span>
+							<span>Nginx</span>
 							<span>MariaDB</span>
-							<span>Responsive Design</span>
-							<span>Dashboard Analytics</span>
 							<span>CI/CD</span>
-							<span>GitHub Actions</span>
+
 						</div>
+
 					</div>
+
+				</div>
+
+
+				<div id='receiveFlow' class="projectCard" data-preview="receiveFlowImageReview">
+
+					<div class="projectText">
+
+						<div class="projectTopLine">
+
+							<h3>ReceiveFlow – Custom Warehouse Workflow Automation Platform</h3>
+
+							<div class='visitButtonContent'>
+								<a href="https://github.com/thaiho101/receiveflow" target="_blank" class="visitBtn">
+									<i class="fab fa-github"></i>
+								</a>
+
+								<a href="https://namho-receiveflow.fortuneterm.com" target="_blank" class="visitBtn">
+									View Live
+								</a>
+							</div>
+
+					</div>
+
+						<p>
+						A warehouse workflow automation platform that replaced manual sorting,
+						spreadsheet tracking, and validation processes with a centralized web system
+						used in real warehouse operations.
+						</p>
+
+						<p class="projectSubTitle">Business Impact</p>
+
+						<ul class="projectTextUl">
+
+						<li>
+						Reduced order preparation time by
+						<span class="highlight">7x (1 week → 1 day)</span>
+						through workflow automation.
+						</li>
+
+						<li>
+						Implemented
+						<span class="highlight">real-time validation</span>
+						and audit logging to improve processing accuracy.
+						</li>
+
+						<li>
+						Designed for
+						<span class="highlight">daily warehouse operations</span>
+						in the uniform supply industry.
+						</li>
+
+						</ul>
+
+						<p class="projectSubTitle">System Design</p>
+
+						<ul class="projectTextUl">
+
+						<li>
+						Developed
+						<span class="highlight">CRUD workflows</span>
+						for order validation, routing, and processing.
+						</li>
+
+						<li>
+						Structured a normalized
+						<span class="highlight">MySQL database</span>
+						to manage orders, categories, and status tracking.
+						</li>
+
+						<li>
+						Built a
+						<span class="highlight">real-time validation engine</span>
+						to automatically classify embroidery requirements and reduce manual errors.
+						</li>
+
+						</ul>
+
+						<p class="projectSubTitle">Deployment</p>
+
+						<ul class="projectTextUl">
+
+						<li>
+						Deployed a
+						<span class="highlight">self-hosted production system</span>
+						on
+						<span class="highlight">Raspberry Pi</span>
+						with secure remote access via
+						<span class="highlight">Cloudflare Tunnel</span>.
+						</li>
+
+						<li>
+						Automated deployments using
+						<span class="highlight">GitHub Actions</span>,
+						a
+						<span class="highlight">self-hosted Raspberry Pi runner</span>,
+						and
+						<span class="highlight">Bash</span>.
+						</li>
+
+						</ul>
+
+						<div class="projectTags">
+
+							<span>PHP</span>
+							<span>MySQL</span>
+							<span>JavaScript</span>
+							<span>Workflow Automation</span>
+							<span>Warehouse Operations</span>
+							<span>Validation Engine</span>
+							<span>CRUD</span>
+							<span>Audit Logging</span>
+							<span>Cloudflare Tunnel</span>
+							<span>Self-hosted</span>
+							<span>CI/CD</span>
+
+						</div>
+
+					</div>
+
 				</div>
 
 				<div id='uniformVoucher' class="projectCard" data-preview="uniformsVoucherImageReview">
@@ -793,7 +903,7 @@
 
 		<div class="skillCard">
 			<h3><i class="fas fa-database"></i> Infrastructure</h3>
-			<p>CI/CD, Self-hosted deployment (Raspberry Pi, Cloudflare Tunnel)</p>
+			<p>Docker, Docker Compose, Raspberry Pi, Cloudflare Tunnel, Self-hosted Deployment, CI/CD</p>
 		</div>
 
 	</div>
