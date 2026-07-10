@@ -878,7 +878,7 @@
 
 		<div class="skillCard">
 			<h3><i class="fas fa-code"></i> Languages</h3>
-			<p> PHP, Java, Python</p>
+			<p> Java, PHP, Python</p>
 		</div>
 
 		<div class="skillCard">
@@ -893,17 +893,17 @@
 
 		<div class="skillCard">
 			<h3><i class="fas fa-database"></i> Database</h3>
-			<p>MariaDB, MySQL, MongoDB</p>
+			<p>MariaDB, MySQL</p>
 		</div>
 
 		<div class="skillCard">
 			<h3><i class="fas fa-screwdriver-wrench"></i> Tools & Systems</h3>
-			<p>Git, GitHub, GitHub Actions, Linux, Bash</p>
+			<p>Git, GitHub, Linux, Bash</p>
 		</div>
 
 		<div class="skillCard">
 			<h3><i class="fas fa-database"></i> Infrastructure</h3>
-			<p>Docker, Docker Compose, Raspberry Pi, Cloudflare Tunnel, Self-hosted Deployment, CI/CD</p>
+			<p>Docker, Docker Compose, GitHub Actions, Raspberry Pi, Cloudflare Tunnel, Self-hosted Deployment, CI/CD</p>
 		</div>
 
 	</div>
