@@ -888,7 +888,7 @@
 
 		<div class="skillCard">
 			<h3><i class="fas fa-database"></i> Backend</h3>
-			<p>Java, Spring Boot, PHP, Node.js, RESTful APIs, JWT Authentication</p>
+			<p>Spring Boot, Spring Security, Spring Data JPA, Node.js, RESTful APIs, JWT Authentication</p>
 		</div>
 
 		<div class="skillCard">
