@@ -355,7 +355,7 @@
 							<span>Docker Compose</span>
 							<span>Spring Security</span>
 							<span>JWT</span>
-							<span>REST APIs</span>
+							<span>RESTful APIs</span>
 							<span>Nginx</span>
 							<span>MariaDB</span>
 							<span>CI/CD</span>
