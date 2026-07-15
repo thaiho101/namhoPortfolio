@@ -305,10 +305,8 @@
 
 						<li>
 							Developed secure
-							<span class="highlight">REST API endpoints</span>
-							with complete
-							<span class="highlight">CRUD functionality</span>
-							for journeys and transactions.
+							<span class="highlight">RESTful APIs</span>
+							for journey, transaction, and <span class="highlight">permission-based sharing</span>.
 						</li>
 
 						<li>
