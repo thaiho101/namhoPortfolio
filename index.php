@@ -359,6 +359,8 @@
 							<span>Nginx</span>
 							<span>MariaDB</span>
 							<span>CI/CD</span>
+							<span>JUnit 5</span>
+							<span>Mockito</span>
 
 						</div>
 
@@ -886,7 +888,12 @@
 
 		<div class="skillCard">
 			<h3><i class="fas fa-database"></i> Backend</h3>
-			<p>Spring Boot, Spring Security, Spring Data JPA, Node.js, RESTful APIs, JWT Authentication</p>
+			<p>Spring Boot, 
+				Spring Security, 
+				Spring Data JPA, 
+				Node.js, RESTful APIs, JWT Authentication, Hibernate,
+				JUnit 5,
+				Mockito</p>
 		</div>
 
 		<div class="skillCard">
